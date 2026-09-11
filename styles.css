@@ -23,12 +23,9 @@
 .reward-ring{position:fixed;z-index:42;width:24px;height:24px;border:4px solid #cdb8ff;border-radius:50%;pointer-events:none;transform:translate(-50%,-50%) scale(.2);box-shadow:0 0 18px #cdb8ff;animation:rewardRing .68s ease-out forwards}
 .reward-ring.perfect{border-width:5px;border-color:#fff0a0;box-shadow:0 0 18px #fff,0 0 30px #d4b7ff}
 .reward-ring.second{animation-delay:.08s}
-.miss-review{position:absolute;z-index:8;left:7%;right:7%;top:50%;transform:translateY(-50%);background:#fffafbF2;border:1px solid #e6b8c7;border-radius:18px;padding:16px 18px;text-align:left;box-shadow:0 10px 35px #74324b22;backdrop-filter:blur(8px)}
-.miss-review .miss-kicker{font-size:9px;font-weight:800;letter-spacing:1.5px;color:var(--red);margin-bottom:7px}
-.miss-review strong{display:block;font-size:22px;color:var(--ink);line-height:1.2}
-.miss-review>span{display:block;font-size:13px;color:var(--red);font-weight:700;margin-top:3px}
-.miss-review p{margin:10px 0 2px;font-size:15px;font-weight:650;line-height:1.45}
-.miss-review small{display:block;font-size:11px;color:var(--muted);line-height:1.5}
+.miss-review{position:absolute;z-index:8;left:7%;right:7%;top:50%;transform:translateY(-50%);background:#fffdfbf2;border:1px solid #e7dce8;border-radius:18px;padding:22px 20px;text-align:center;box-shadow:0 10px 35px #5637661c;backdrop-filter:blur(8px)}
+.miss-review p{margin:0;font-size:clamp(17px,4.8vw,22px);font-weight:650;line-height:1.55;color:var(--ink)}
+.miss-word{background:#f0e6ff;color:#6f49c6;border-radius:5px;padding:0 .13em;font-weight:800}
 @keyframes rewardGood{30%{transform:scale(1.065);filter:brightness(1.16);box-shadow:0 0 44px #8af0c9,0 0 18px #fff inset}100%{transform:scale(1);filter:none}}
 @keyframes rewardGreat{28%{transform:scale(1.085);filter:brightness(1.22);box-shadow:0 0 58px #b79cff,0 0 26px #8af0c9,0 0 18px #fff inset}100%{transform:scale(1);filter:none}}
 @keyframes rewardPerfect{22%{transform:scale(1.11);filter:brightness(1.3);box-shadow:0 0 74px #ffe889,0 0 46px #c5a7ff,0 0 28px #89f0cb,0 0 22px #fff inset}58%{transform:scale(1.035);filter:brightness(1.12)}100%{transform:scale(1);filter:none}}
