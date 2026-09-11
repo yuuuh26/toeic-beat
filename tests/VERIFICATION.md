@@ -30,6 +30,8 @@ The deployed app was tested through its public Pages URL and the 390×844 iframe
 - No application-origin errors were observed. Browser-extension metadata errors were unrelated to the app.
 - A phone-width heading wrap was found and corrected; answer feedback moved below the judgment line to avoid overlap with very fast responses.
 
+- Updated service-worker installation to bypass stale HTTP asset caches, and disabled caching for worker update checks.
+
 ## Limits
 
 This is a desktop Chrome test at a phone-sized viewport, not a physical Android test. Speaker quality, speech-synthesis start delay, BGM/voice balance and Bluetooth delay require listening on the intended device. The cache is prepared, but a disconnected-network end-to-end run was not performed. Storage persistence was requested and remained ungranted in this browser; normal IndexedDB persistence across reload was verified. Vocabulary checks cover structure and selected wording corrections, not independent editorial review of every IPA/translation.
