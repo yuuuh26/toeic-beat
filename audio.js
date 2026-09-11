@@ -14,6 +14,16 @@ export class BeatAudio {
  speak(word){this.cancelVoice();if(!this.settings.voiceOn||!this.settings.voice||!('speechSynthesis' in window))return false;const token=++this.voiceToken,u=new SpeechSynthesisUtterance(word);u.lang='en-US';u.volume=this.settings.voice;u.rate=1;u.voice=this.voices.find(v=>v.localService&&/^en-US/i.test(v.lang))||this.voices.find(v=>/^en-US/i.test(v.lang))||this.voices[0]||null;const end=()=>{if(token===this.voiceToken){clearTimeout(this.duckTimeout);this.duck(false);}};u.onstart=()=>{if(token===this.voiceToken)this.duck(true);};u.onend=end;u.onerror=end;this.duckTimeout=setTimeout(end,4500);speechSynthesis.speak(u);return true;}
  cancelVoice(){this.voiceToken++;clearTimeout(this.duckTimeout);if('speechSynthesis' in window)speechSynthesis.cancel();this.duck(false);}
  spark(t,vol=.08){const c=this.ctx;if(!c||!this.noise)return;const n=c.createBufferSource(),f=c.createBiquadFilter(),g=c.createGain();n.buffer=this.noise;f.type='highpass';f.frequency.setValueAtTime(5200,t);g.gain.setValueAtTime(vol,t);g.gain.exponentialRampToValueAtTime(.0001,t+.08);n.connect(f);f.connect(g);g.connect(this.se);n.start(t);n.stop(t+.085);this.active.add(n);n.onended=()=>{n.disconnect();f.disconnect();g.disconnect();this.active.delete(n);};}
- effect(grade){if(!this.ctx)return;const t=this.ctx.currentTime;if(grade==='MISS'){this.tone(170,t,.11,.12,'triangle',this.se);this.tone(120,t+.045,.09,.07,'sine',this.se);return;}const p=grade==='PERFECT'?{base:880,gain:.24}:grade==='GREAT'?{base:760,gain:.20}:{base:660,gain:.17};this.spark(t,.075);this.tone(p.base,t,.11,p.gain,'triangle',this.se);this.tone(p.base*1.5,t+.035,.13,p.gain*.68,'sine',this.se);if(grade!=='GOOD')this.tone(p.base*2,t+.075,.16,p.gain*.55,'sine',this.se);if(grade==='PERFECT'){this.tone(p.base*2.5,t+.12,.18,p.gain*.42,'sine',this.se);this.spark(t+.09,.05);}}
+ effect(grade){if(!this.ctx)return;const t=this.ctx.currentTime;if(grade==='MISS'){this.tone(165,t,.12,.14,'triangle',this.se);this.tone(112,t+.045,.11,.09,'sine',this.se);return;}
+ const good=grade==='GOOD',great=grade==='GREAT',perfect=grade==='PERFECT';
+ const base=good?760:great?900:1040,gain=good?.28:great?.36:.44;
+ this.spark(t,good?.11:great?.15:.20);
+ this.tone(base/2,t,.12,gain*.38,'sine',this.se);
+ this.tone(base,t,.12,gain,'triangle',this.se);
+ this.tone(base*1.5,t+.032,.15,gain*.78,'sine',this.se);
+ this.tone(base*2,t+.072,.18,gain*.62,'sine',this.se);
+ if(great||perfect){this.tone(base*2.5,t+.115,.20,gain*.50,'triangle',this.se);this.spark(t+.085,great?.10:.14);}
+ if(perfect){this.tone(base*3,t+.16,.24,gain*.44,'sine',this.se);this.tone(base*4,t+.205,.22,gain*.30,'sine',this.se);this.spark(t+.15,.12);}
+ }
  stop(){this.stopMusic();this.cancelVoice();}
 }
