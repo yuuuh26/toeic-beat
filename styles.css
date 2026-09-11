@@ -5,3 +5,5 @@
 .feedback{top:auto;bottom:10px;font-size:11px}
 .feedback:not(:empty)~.judgment-line:after{visibility:hidden}
 .storage{white-space:pre-line}
+
+.example-head{display:flex;align-items:flex-start;gap:10px}.example-head p{flex:1}.example-speak{width:34px;height:34px;font-size:14px;background:#ebe4ff;color:var(--purple)}.example-speak:active{transform:scale(.96)}
