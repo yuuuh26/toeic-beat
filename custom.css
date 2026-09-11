@@ -1,5 +1,10 @@
-.miss-review{padding:20px 18px}
+.miss-review{padding:20px 18px;cursor:pointer;user-select:none;-webkit-user-select:none}
 .miss-review p{margin:0;font-size:clamp(17px,4.8vw,22px);font-weight:650;line-height:1.55;color:var(--ink)}
 .miss-review small{display:block;margin-top:10px;color:var(--muted);font-size:12px;line-height:1.55;text-align:center}
+.skip-hint{display:block;margin-top:13px;color:#8a72c8;font-size:10px;font-style:normal;font-weight:700;letter-spacing:.8px;text-align:center}
 .file-import{display:flex;align-items:center;justify-content:center;width:100%;margin-top:12px;padding:14px;border-radius:12px;background:#eee9f9;color:#5c467f;font-size:13px;font-weight:700;cursor:pointer}
 .file-import input{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}
+.session-mode{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:9px;padding:3px;background:#f1edf9;border-radius:11px}
+.session-mode button{padding:8px 4px;border-radius:8px;background:transparent;color:var(--muted);font-size:11px;font-weight:750}
+.session-mode button.selected{background:#fff;color:var(--purple);box-shadow:0 2px 8px #4f347018}
+#durationSelect{margin-top:0}
