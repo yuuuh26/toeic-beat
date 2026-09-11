@@ -1,0 +1,106 @@
+@契約・規則
+comply|従う|kəmˈplaɪ|v|comply with safety regulations|安全規則に従う|comply with the new policy|新方針に従う
+adhere|厳守する|ədˈhɪr|v|adhere to the guidelines|指針を厳守する|adhere to the schedule|予定を厳守する
+enforce|施行する|ɪnˈfɔːrs|v|enforce the parking rules|駐車規則を施行する|enforce the safety policy|安全方針を徹底する
+amend|修正する|əˈmend|v|amend the contract|契約書を修正する|amend the company rules|社則を修正する
+terminate|終了させる|ˈtɜːrmɪneɪt|v|terminate the agreement|契約を終了させる|terminate the service contract|保守契約を終了させる
+waive|免除する|weɪv|v|waive the registration fee|登録料を免除する|waive the cancellation charge|取消料金を免除する
+retain|保持する|rɪˈteɪn|v|retain a copy of the contract|契約書の写しを保持する|retain experienced employees|経験豊富な従業員を引き留める
+disclose|開示する|dɪsˈkloʊz|v|disclose the total cost|総費用を開示する|disclose a conflict of interest|利益相反を開示する
+verify|確かめる|ˈverɪfaɪ|v|verify the account details|口座情報を確かめる|verify the applicant's identity|応募者の身元を確かめる
+specify|明記する|ˈspesɪfaɪ|v|specify the delivery date|納品日を明記する|specify the required dimensions|必要な寸法を明記する
+regulation|規則|ˌreɡjəˈleɪʃən|n|review the safety regulation|安全規則を検討する|explain the new regulation|新しい規則を説明する
+compliance|法令順守|kəmˈplaɪəns|n|ensure regulatory compliance|規制順守を確保する|conduct a compliance review|法令順守の審査を行う
+clause|条項|klɔːz|n|review the cancellation clause|取消条項を検討する|add a confidentiality clause|守秘条項を追加する
+obligation|義務|ˌɑːblɪˈɡeɪʃən|n|fulfill the contractual obligation|契約上の義務を果たす|explain the reporting obligation|報告義務を説明する
+liability|法的責任|ˌlaɪəˈbɪləti|n|clarify legal liability|法的責任を明確にする|purchase liability insurance|賠償責任保険を購入する
+consent|同意|kənˈsent|n|obtain written consent|書面による同意を得る|request the owner's consent|所有者の同意を求める
+permit|許可証|ˈpɜːrmɪt|n|apply for a building permit|建築許可証を申請する|display the parking permit|駐車許可証を掲示する
+license|免許|ˈlaɪsəns|n|renew the business license|営業免許を更新する|check the driver's license|運転免許を確認する
+agreement|合意|əˈɡriːmənt|n|reach an agreement|合意に達する|review the written agreement|書面の合意を検討する
+renewal|更新|rɪˈnuːəl|n|process the contract renewal|契約更新を処理する|send a renewal reminder|更新の通知を送る
+@会計・資金
+audit|監査する|ˈɔːdɪt|v|audit the financial records|財務記録を監査する|audit the expense accounts|経費勘定を監査する
+deduct|控除する|dɪˈdʌkt|v|deduct the service fee|サービス手数料を控除する|deduct tax from the payment|支払いから税を控除する
+calculate|計算する|ˈkælkjəleɪt|v|calculate the total cost|総費用を計算する|calculate the monthly interest|毎月の利息を計算する
+forecast|予測する|ˈfɔːrkæst|v|forecast quarterly sales|四半期売上を予測する|forecast demand accurately|需要を正確に予測する
+reconcile|照合して一致させる|ˈrekənsaɪl|v|reconcile the accounts|勘定を照合して一致させる|reconcile bank statements|銀行取引明細を照合する
+remit|送金する|rɪˈmɪt|v|remit the payment|代金を送金する|remit the balance by Friday|金曜日までに残金を送金する
+invest|投資する|ɪnˈvest|v|invest in new technology|新技術に投資する|invest in staff development|職員の能力開発に投資する
+finance|資金を提供する|fəˈnæns|v|finance the expansion|拡張に資金を提供する|finance the new facility|新施設に資金を提供する
+expenditure|支出|ɪkˈspendɪtʃər|n|reduce annual expenditure|年間支出を減らす|review capital expenditure|設備投資支出を検討する
+reimbursement|立替金の払い戻し|ˌriːɪmˈbɜːrsmənt|n|request travel reimbursement|旅費の払い戻しを求める|process the reimbursement claim|立替金の払い戻し請求を処理する
+payroll|給与支払名簿|ˈpeɪroʊl|n|update the payroll|給与支払名簿を更新する|review the payroll records|給与支払いの記録を検討する
+allowance|手当|əˈlaʊəns|n|provide a travel allowance|出張手当を支給する|review the housing allowance|住宅手当を見直す
+pension|年金|ˈpenʃən|n|review the pension plan|年金制度を検討する|calculate pension contributions|年金拠出金を計算する
+asset|資産|ˈæset|n|record each fixed asset|固定資産を一つずつ記録する|review the asset register|資産台帳を検討する
+deficit|赤字|ˈdefɪsɪt|n|reduce the budget deficit|財政赤字を減らす|explain the annual deficit|年間赤字を説明する
+surplus|余剰|ˈsɜːrpləs|n|use the budget surplus|予算の余剰を使う|sell surplus equipment|余剰機器を売る
+interest|利息|ˈɪntrəst|n|calculate the interest|利息を計算する|compare interest rates|金利を比較する
+installment|分割払いの一回分|ɪnˈstɔːlmənt|n|pay the first installment|分割払いの初回分を支払う|check the monthly installment|毎月の分割払い額を確認する
+dividend|配当|ˈdɪvɪdend|n|declare an annual dividend|年間配当を発表する|review the dividend policy|配当方針を検討する
+quotation|見積書|kwoʊˈteɪʃən|n|request a formal quotation|正式な見積書を求める|compare each supplier's quotation|各業者の見積書を比較する
+@物流・調達
+procure|調達する|prəˈkjʊr|v|procure raw materials|原材料を調達する|procure replacement parts|交換部品を調達する
+dispatch|発送する|dɪˈspætʃ|v|dispatch the order today|今日注文品を発送する|dispatch spare parts|予備部品を発送する
+transport|輸送する|trænsˈpɔːrt|v|transport goods by rail|鉄道で商品を輸送する|transport equipment safely|機器を安全に輸送する
+retrieve|取り出す|rɪˈtriːv|v|retrieve archived files|保管済みのファイルを取り出す|retrieve items from storage|保管場所から品物を取り出す
+replenish|補充する|rɪˈplenɪʃ|v|replenish office supplies|事務用品を補充する|replenish the inventory|在庫を補充する
+assemble|組み立てる|əˈsembəl|v|assemble the furniture|家具を組み立てる|assemble electronic components|電子部品を組み立てる
+load|積み込む|loʊd|v|load the delivery truck|配送トラックに積み込む|load the cargo carefully|貨物を慎重に積み込む
+unload|荷下ろしする|ʌnˈloʊd|v|unload the shipment|出荷品を荷下ろしする|unload the containers|コンテナを荷下ろしする
+warehouse|倉庫|ˈwerhaʊs|n|lease a larger warehouse|より大きな倉庫を借りる|inspect the warehouse layout|倉庫の配置を点検する
+freight|貨物輸送|freɪt|n|arrange air freight|航空貨物輸送を手配する|compare freight charges|貨物輸送料を比較する
+cargo|積荷|ˈkɑːrɡoʊ|n|inspect the cargo|積荷を検査する|secure the cargo properly|積荷を適切に固定する
+consignment|託送貨物|kənˈsaɪnmənt|n|track the consignment|託送貨物を追跡する|inspect the incoming consignment|到着する託送貨物を検査する
+customs|税関|ˈkʌstəmz|n|prepare the customs declaration|税関申告書を作成する|contact the customs office|税関事務所に連絡する
+tariff|関税|ˈtærɪf|n|calculate the import tariff|輸入関税を計算する|review the tariff schedule|関税表を検討する
+procurement|調達|prəˈkjʊrmənt|n|review procurement procedures|調達手順を見直す|contact the procurement team|調達担当者に連絡する
+logistics|物流管理|ləˈdʒɪstɪks|n|coordinate event logistics|行事の物流管理を調整する|improve logistics operations|物流管理業務を改善する
+packaging|包装|ˈpækɪdʒɪŋ|n|reduce packaging waste|包装ごみを減らす|redesign the product packaging|商品包装をデザインし直す
+component|部品|kəmˈpoʊnənt|n|replace a faulty component|故障した部品を交換する|test each electronic component|電子部品を一つずつ試験する
+shortage|不足|ˈʃɔːrtɪdʒ|n|address the staff shortage|人手不足に対処する|prevent a supply shortage|供給不足を防ぐ
+backlog|未処理の仕事|ˈbæklɔːɡ|n|clear the order backlog|未処理の注文を片付ける|reduce the maintenance backlog|未処理の保守作業を減らす
+@人事・労務
+personnel|職員全体|ˌpɜːrsəˈnel|n|train maintenance personnel|保守担当の職員を訓練する|review personnel records|職員の記録を検討する
+recruitment|採用活動|rɪˈkruːtmənt|n|start the recruitment process|採用活動の手続きを始める|reduce recruitment costs|採用活動の費用を減らす
+vacancy|欠員|ˈveɪkənsi|n|fill the vacancy|欠員を補充する|advertise a staff vacancy|職員の欠員を公募する
+tenure|在職期間|ˈtenjər|n|review the director's tenure|役員の在職期間を振り返る|recognize long employee tenure|従業員の長期在職を評価する
+appraisal|査定|əˈpreɪzəl|n|conduct a performance appraisal|業績査定を行う|prepare the annual appraisal|年次査定を準備する
+incentive|奨励策|ɪnˈsentɪv|n|offer a sales incentive|販売奨励策を提供する|design an employee incentive|従業員の奨励策を設計する
+compensation|報酬・補償|ˌkɑːmpənˈseɪʃən|n|review the compensation package|報酬の内容を見直す|negotiate fair compensation|公平な補償を交渉する
+seniority|勤続年数による序列|ˌsiːniˈɔːrəti|n|consider employee seniority|従業員の勤続年数による序列を考慮する|review seniority rules|勤続年数による序列の規則を見直す
+leave|休暇|liːv|n|apply for parental leave|育児休暇を申請する|approve annual leave|年次休暇を承認する
+overtime|時間外勤務|ˈoʊvərtaɪm|n|reduce unnecessary overtime|不要な時間外勤務を減らす|record overtime hours|時間外勤務の時間を記録する
+redundancy|人員整理|rɪˈdʌndənsi|n|review the redundancy plan|人員整理の計画を検討する|negotiate redundancy payments|人員整理の退職手当を交渉する
+entitlement|受給資格|ɪnˈtaɪtəlmənt|n|check leave entitlement|休暇を取得する権利を確認する|explain pension entitlement|年金の受給資格を説明する
+appoint|任命する|əˈpɔɪnt|v|appoint a new director|新しい役員を任命する|appoint an independent auditor|独立した監査人を任命する
+delegate|委任する|ˈdelɪɡeɪt|v|delegate routine tasks|定型業務を委任する|delegate authority to managers|管理職に権限を委任する
+motivate|意欲を起こさせる|ˈmoʊtɪveɪt|v|motivate the sales team|販売担当者の意欲を起こさせる|motivate staff through recognition|評価を通じて職員の意欲を起こさせる
+mentor|指導する|ˈmentɔːr|v|mentor new employees|新入社員を指導する|mentor junior engineers|若手技術者を指導する
+accommodate|対応して受け入れる|əˈkɑːmədeɪt|v|accommodate special requests|特別な要望に対応する|accommodate additional guests|追加の客を受け入れる
+facilitate|円滑にする|fəˈsɪlɪteɪt|v|facilitate communication|意思疎通を円滑にする|facilitate the transition|移行を円滑にする
+assess|査定する|əˈses|v|assess the damage|損害を査定する|assess training needs|研修の必要性を評価する
+dismiss|解雇する|dɪsˈmɪs|v|dismiss an employee for misconduct|不正行為を理由に従業員を解雇する|dismiss temporary staff after the project|事業終了後に臨時職員を解雇する
+@業務上の条件
+binding|法的拘束力のある|ˈbaɪndɪŋ|a|sign a binding agreement|法的拘束力のある合意書に署名する|negotiate binding terms|法的拘束力のある条件を交渉する
+overdue|支払期限を過ぎた|ˌoʊvərˈduː|a|collect overdue payments|期限を過ぎた支払いを回収する|send reminders for overdue invoices|支払期限を過ぎた請求の督促を送る
+payable|支払うべき|ˈpeɪəbəl|a|calculate the amount payable|支払うべき金額を計算する|review accounts payable|買掛金を検討する
+taxable|課税対象の|ˈtæksəbəl|a|calculate taxable income|課税所得を計算する|review taxable benefits|課税対象の給付を検討する
+reimbursable|払い戻し可能な|ˌriːɪmˈbɜːrsəbəl|a|list reimbursable expenses|払い戻し可能な経費を一覧にする|verify reimbursable travel costs|払い戻し可能な旅費を確認する
+perishable|腐りやすい|ˈperɪʃəbəl|a|transport perishable goods|腐りやすい商品を輸送する|refrigerate perishable food|腐りやすい食品を冷蔵する
+hazardous|危険な|ˈhæzərdəs|a|handle hazardous materials|危険物を取り扱う|label hazardous waste|危険な廃棄物に表示を付ける
+bulk|大量の|bʌlk|a|offer bulk discounts|大量購入の値引きを提供する|process bulk orders|大量注文を処理する
+consecutive|連続した|kənˈsekjətɪv|a|review three consecutive quarters|連続した3四半期を検討する|reserve two consecutive days|連続した2日間を確保する
+probationary|試用期間中の|proʊˈbeɪʃəneri|a|evaluate probationary employees|試用期間中の従業員を評価する|review the probationary period|試用期間を見直す
+@物流・契約条件
+nonrefundable|返金不可の|ˌnɑːnrɪˈfʌndəbəl|a|explain the nonrefundable deposit|返金不可の保証金を説明する|offer nonrefundable tickets|返金不可の切符を提供する
+renewable|更新可能な|rɪˈnuːəbəl|a|offer a renewable contract|更新可能な契約を提供する|negotiate a renewable lease|更新可能な賃貸契約を交渉する
+contractual|契約上の|kənˈtræktʃuəl|a|fulfill contractual duties|契約上の職務を果たす|review contractual terms|契約上の条件を検討する
+statutory|法定の|ˈstætʃətɔːri|a|provide statutory benefits|法定の給付を提供する|meet statutory requirements|法定要件を満たす
+bilateral|二者間の|baɪˈlætərəl|a|negotiate a bilateral agreement|二者間の協定を交渉する|organize bilateral talks|二者間の協議を企画する
+fiscal|会計年度の・財政の|ˈfɪskəl|a|review the fiscal year results|会計年度の結果を検討する|revise the fiscal plan|財政計画を改訂する
+monetary|金銭的な|ˈmɑːnɪteri|a|offer monetary compensation|金銭的な補償を提供する|assess the monetary value|金銭的な価値を評価する
+itemized|項目別に記載された|ˈaɪtəmaɪzd|a|request an itemized bill|項目別に記載された請求書を求める|prepare an itemized estimate|項目別に記載された見積もりを作成する
+intact|損なわれていない|ɪnˈtækt|a|keep the packaging intact|包装を損なわれていない状態に保つ|deliver the goods intact|商品を無傷で届ける
+expedited|迅速化された|ˈekspədaɪtɪd|a|request expedited shipping|迅速化された発送を依頼する|offer expedited processing|迅速化された処理を提供する

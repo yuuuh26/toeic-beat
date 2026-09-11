@@ -1,0 +1,105 @@
+@交渉・規程
+stipulate|明文化して規定する|ˈstɪpjəleɪt|v|stipulate a minimum order|最低注文量を明文化して規定する|stipulate payment in advance|前払いを明文化して規定する
+ratify|正式に批准する|ˈrætɪfaɪ|v|ratify the agreement|合意を正式に批准する|ratify the proposed amendment|提案された修正を正式に批准する
+rescind|撤回して無効にする|rɪˈsɪnd|v|rescind the offer|申し出を撤回して無効にする|rescind the previous decision|以前の決定を撤回する
+revoke|取り消して失効させる|rɪˈvoʊk|v|revoke the permit|許可証を取り消して失効させる|revoke access privileges|アクセス権限を取り消す
+rectify|是正する|ˈrektɪfaɪ|v|rectify the billing error|請求の誤りを是正する|rectify the discrepancy|不一致を是正する
+mitigate|軽減する|ˈmɪtɪɡeɪt|v|mitigate potential risks|潜在的リスクを軽減する|mitigate the impact of delays|遅延の影響を軽減する
+expedite|促進して早める|ˈekspədaɪt|v|expedite the approval process|承認手続きを促進して早める|expedite the shipment|出荷を促進して早める
+scrutinize|綿密に調べる|ˈskruːtənaɪz|v|scrutinize the financial statements|財務諸表を綿密に調べる|scrutinize the contract terms|契約条件を綿密に調べる
+substantiate|裏付ける|səbˈstænʃieɪt|v|substantiate the claim with evidence|証拠で主張を裏付ける|substantiate the reported savings|報告された節約額を裏付ける
+corroborate|証拠で確証する|kəˈrɑːbəreɪt|v|corroborate the findings|調査結果を証拠で確証する|corroborate the account with records|記録で説明を確証する
+reiterate|繰り返し述べる|riˈɪtəreɪt|v|reiterate the safety instructions|安全指示を繰り返し述べる|reiterate the company's commitment|会社の確約を繰り返し述べる
+articulate|明瞭に述べる|ɑːrˈtɪkjəleɪt|v|articulate the project goals|事業目標を明瞭に述べる|articulate customer needs|顧客の要望を明瞭に述べる
+ascertain|突き止める|ˌæsərˈteɪn|v|ascertain the cause of the fault|故障の原因を突き止める|ascertain the exact requirements|正確な要件を突き止める
+delineate|明確に示す|dɪˈlɪnieɪt|v|delineate staff responsibilities|職員の責任範囲を明確に示す|delineate the project scope|事業範囲を明確に示す
+supersede|取って代わる|ˌsuːpərˈsiːd|v|supersede the previous agreement|以前の合意に取って代わる|supersede the existing guidelines|既存の指針に取って代わる
+preclude|不可能にする|prɪˈkluːd|v|preclude further delays|さらなる遅延を起こらないようにする|preclude unauthorized access|無許可のアクセスを不可能にする
+curtail|削減する|kɜːrˈteɪl|v|curtail unnecessary spending|不要な支出を削減する|curtail overtime hours|残業時間を削減する
+relinquish|放棄する|rɪˈlɪŋkwɪʃ|v|relinquish control of the project|事業の管理権を放棄する|relinquish exclusive rights|独占権を放棄する
+endorse|支持を表明する|ɪnˈdɔːrs|v|endorse the proposal|提案への支持を表明する|endorse the sustainability initiative|持続可能性の取り組みへの支持を表明する
+sanction|正式に認可する|ˈsæŋkʃən|v|sanction the proposed expansion|提案された拡張を正式に認可する|sanction the use of funds|資金の使用を正式に認可する
+@経営・市場
+diversify|多角化する|daɪˈvɜːrsɪfaɪ|v|diversify the product range|製品の種類を多角化する|diversify revenue sources|収入源を多様化する
+leverage|有効活用する|ˈlevərɪdʒ|v|leverage existing expertise|既存の専門知識を有効活用する|leverage customer feedback|顧客の意見を有効活用する
+capitalize|好機を生かす|ˈkæpɪtəlaɪz|v|capitalize on growing demand|需要増加の好機を生かす|capitalize on the new opportunity|新しい好機を生かす
+bolster|支える・増強する|ˈboʊlstər|v|bolster customer confidence|顧客の信頼を増強する|bolster the support team|支援担当チームを増強する
+harness|役立てる|ˈhɑːrnəs|v|harness solar energy|太陽エネルギーを役立てる|harness the team's creativity|チームの創造性を役立てる
+foster|育成する|ˈfɔːstər|v|foster collaboration|協力関係を育成する|foster a culture of safety|安全の文化を育む
+cultivate|培う|ˈkʌltɪveɪt|v|cultivate customer relationships|顧客との関係を培う|cultivate leadership skills|指導力を培う
+spearhead|先頭に立って進める|ˈspɪrhed|v|spearhead the expansion|拡張を先頭に立って進める|spearhead the recycling initiative|リサイクルの取り組みを先導する
+orchestrate|巧みに取りまとめる|ˈɔːrkɪstreɪt|v|orchestrate the product launch|新商品発売を巧みに取りまとめる|orchestrate the office relocation|事務所移転を巧みに取りまとめる
+restructure|再編する|ˌriːˈstrʌktʃər|v|restructure the department|部署を再編する|restructure the distribution network|流通網を再編する
+acquisition|買収|ˌækwɪˈzɪʃən|n|evaluate the proposed acquisition|提案された買収を評価する|finance the acquisition|買収に資金を提供する
+merger|合併|ˈmɜːrdʒər|n|announce the merger|合併を発表する|assess the merger proposal|合併案を評価する
+subsidiary|子会社|səbˈsɪdieri|n|establish a local subsidiary|地元に子会社を設立する|review the subsidiary's results|子会社の業績を検討する
+affiliate|関連会社|əˈfɪliət|n|contact the overseas affiliate|海外の関連会社に連絡する|appoint a regional affiliate|地域の関連会社を指定する
+franchise|加盟店営業権|ˈfræntʃaɪz|n|purchase a restaurant franchise|飲食店の加盟店営業権を購入する|review the franchise agreement|加盟店契約を検討する
+consortium|共同事業体|kənˈsɔːrtiəm|n|join an industry consortium|業界の共同事業体に参加する|establish a research consortium|研究共同事業体を設立する
+stakeholder|利害関係者|ˈsteɪkhoʊldər|n|consult each stakeholder|各利害関係者に相談する|gather stakeholder feedback|利害関係者の意見を集める
+shareholder|株主|ˈʃerhoʊldər|n|address shareholder concerns|株主の懸念に対処する|organize a shareholder meeting|株主総会を企画する
+portfolio|保有資産の組み合わせ|pɔːrtˈfoʊlioʊ|n|review the investment portfolio|保有投資資産の組み合わせを検討する|diversify the portfolio|保有資産の組み合わせを多様化する
+benchmark|比較評価の基準|ˈbentʃmɑːrk|n|establish a quality benchmark|品質の比較評価基準を設ける|compare results against the benchmark|結果を比較評価基準と比べる
+@高度な業務概念
+contingency|不測の事態|kənˈtɪndʒənsi|n|prepare a contingency plan|不測の事態への計画を作成する|set aside a contingency fund|不測の事態への資金を確保する
+prerequisite|前提条件|ˌpriːˈrekwəzɪt|n|specify the prerequisite for enrollment|受講の前提条件を明記する|verify each prerequisite|各前提条件を確認する
+stipulation|明文化された条件|ˌstɪpjəˈleɪʃən|n|review the payment stipulation|明文化された支払条件を検討する|add a delivery stipulation|納品条件を明文化して追加する
+provision|規定|prəˈvɪʒən|n|review the insurance provision|保険の規定を検討する|add a confidentiality provision|守秘規定を追加する
+concession|譲歩|kənˈseʃən|n|offer a price concession|価格面の譲歩を提示する|negotiate a further concession|追加の譲歩を交渉する
+arbitration|仲裁|ˌɑːrbɪˈtreɪʃən|n|request independent arbitration|独立した仲裁を求める|review the arbitration clause|仲裁条項を検討する
+litigation|訴訟|ˌlɪtɪˈɡeɪʃən|n|avoid unnecessary litigation|不要な訴訟を避ける|estimate potential litigation costs|予想される訴訟費用を見積もる
+jurisdiction|管轄権|ˌdʒʊrɪsˈdɪkʃən|n|determine the relevant jurisdiction|該当する管轄権を判断する|clarify the court's jurisdiction|裁判所の管轄権を明確にする
+remittance|送金|rɪˈmɪtəns|n|confirm receipt of the remittance|送金の受領を確認する|check the remittance details|送金の詳細を確認する
+collateral|担保|kəˈlætərəl|n|provide collateral for the loan|融資の担保を提供する|assess the collateral value|担保価値を評価する
+liquidity|資金流動性|lɪˈkwɪdəti|n|maintain sufficient liquidity|十分な資金流動性を維持する|review the liquidity position|資金流動性の状況を検討する
+solvency|支払い能力|ˈsɑːlvənsi|n|assess the company's solvency|会社の支払い能力を評価する|monitor long-term solvency|長期的な支払い能力を監視する
+depreciation|減価償却|dɪˌpriːʃiˈeɪʃən|n|calculate annual depreciation|年間の減価償却を計算する|review the depreciation method|減価償却方法を検討する
+appreciation|価値の上昇|əˌpriːʃiˈeɪʃən|n|forecast currency appreciation|通貨価値の上昇を予測する|assess property appreciation|不動産価値の上昇を評価する
+fluctuation|変動|ˌflʌktʃuˈeɪʃən|n|monitor price fluctuation|価格変動を監視する|analyze seasonal fluctuation|季節変動を分析する
+volatility|変動の激しさ|ˌvɑːləˈtɪləti|n|monitor market volatility|市場変動の激しさを監視する|reduce exposure to volatility|激しい変動への影響の受けやすさを減らす
+turnover|総売上高|ˈtɜːrnoʊvər|n|increase annual turnover|年間総売上高を増やす|compare monthly turnover|月間総売上高を比較する
+overhead|間接経費|ˈoʊvərhed|n|reduce overhead costs|間接経費を減らす|calculate monthly overhead|毎月の間接経費を計算する
+outlay|支出額|ˈaʊtleɪ|n|reduce the initial outlay|初期支出額を減らす|estimate the capital outlay|設備への支出額を見積もる
+accrual|発生額|əˈkruːəl|n|review the expense accrual|経費の発生額を検討する|calculate the interest accrual|利息の発生額を計算する
+@高度な形容表現
+lucrative|利益の上がる|ˈluːkrətɪv|a|secure a lucrative contract|利益の上がる契約を確保する|enter a lucrative market|利益の上がる市場に参入する
+stringent|厳格な|ˈstrɪndʒənt|a|meet stringent standards|厳格な基準を満たす|introduce stringent controls|厳格な管理を導入する
+meticulous|細部まで注意深い|məˈtɪkjələs|a|conduct a meticulous review|細部まで注意深い検討を行う|keep meticulous records|綿密な記録を保管する
+pertinent|的確に関連する|ˈpɜːrtənənt|a|include pertinent details|的確に関連する詳細を含める|ask pertinent questions|的確に関連する質問をする
+indispensable|なくてはならない|ˌɪndɪˈspensəbəl|a|provide indispensable support|なくてはならない支援を提供する|identify indispensable tools|なくてはならない道具を特定する
+instrumental|重要な役割を果たす|ˌɪnstrəˈmentəl|a|play an instrumental role|重要な役割を果たす|recognize staff instrumental in the launch|発売に重要な役割を果たした職員を評価する
+unprecedented|前例のない|ʌnˈpresɪdentɪd|a|handle unprecedented demand|前例のない需要に対応する|report unprecedented growth|前例のない成長を報告する
+imminent|差し迫った|ˈɪmɪnənt|a|prepare for an imminent inspection|差し迫った検査に備える|announce the imminent closure|差し迫った閉鎖を発表する
+inherent|本来備わった|ɪnˈhɪrənt|a|assess inherent risks|本来備わったリスクを評価する|recognize inherent limitations|本来備わった限界を認識する
+integral|欠かせない一部の|ˈɪntɪɡrəl|a|play an integral role|欠かせない役割を果たす|make training an integral part of work|研修を仕事の欠かせない一部にする
+paramount|最も重要な|ˈpærəmaʊnt|a|treat safety as paramount|安全を最も重要なものとして扱う|give quality paramount importance|品質に最重要の位置付けを与える
+proprietary|所有権で保護された|prəˈpraɪəteri|a|protect proprietary information|所有権で保護された情報を保護する|develop proprietary software|独自所有のソフトを開発する
+unanimous|全員一致の|juˈnænɪməs|a|seek unanimous approval|全員一致の承認を求める|announce the unanimous decision|全員一致の決定を発表する
+unforeseen|予期しない|ˌʌnfɔːrˈsiːn|a|prepare for unforeseen expenses|予期しない出費に備える|address unforeseen problems|予期しない問題に対処する
+negligible|無視できるほど小さい|ˈneɡlɪdʒəbəl|a|report negligible losses|無視できるほど小さい損失を報告する|accept a negligible risk|無視できるほど小さいリスクを受け入れる
+redundant|余分で不要な|rɪˈdʌndənt|a|remove redundant steps|余分で不要な手順を取り除く|eliminate redundant records|余分で不要な記録を排除する
+interim|暫定期間の|ˈɪntərɪm|a|appoint an interim director|暫定の役員を任命する|prepare an interim report|中間報告書を作成する
+reciprocal|相互交換の|rɪˈsɪprəkəl|a|negotiate reciprocal benefits|相互交換の利益を交渉する|establish a reciprocal arrangement|相互交換の取り決めを設ける
+sustainable|持続可能な|səˈsteɪnəbəl|a|adopt sustainable practices|持続可能な方法を採用する|promote sustainable growth|持続可能な成長を促す
+resilient|回復力のある|rɪˈzɪliənt|a|build a resilient supply chain|回復力のある供給網を築く|develop a resilient business model|回復力のある事業モデルを開発する
+@高度な副詞・動詞
+explicitly|明示的に|ɪkˈsplɪsɪtli|d|explicitly state the conditions|条件を明示的に述べる|explicitly prohibit unauthorized use|無許可使用を明示的に禁止する
+implicitly|暗黙に|ɪmˈplɪsɪtli|d|implicitly accept the terms|暗黙に条件を受け入れる|implicitly acknowledge the problem|暗黙に問題を認める
+predominantly|主に|prɪˈdɑːmɪnəntli|d|serve predominantly local customers|主に地元の顧客にサービスを提供する|operate predominantly online|主にオンラインで運営する
+exceedingly|非常に|ɪkˈsiːdɪŋli|d|face exceedingly high demand|非常に高い需要に直面する|provide exceedingly detailed instructions|非常に詳しい指示を提供する
+invariably|いつも例外なく|ɪnˈveriəbli|d|invariably check every receipt|いつも例外なく領収書をすべて確認する|invariably follow safety procedures|いつも例外なく安全手順に従う
+prompt|促す|prɑːmpt|v|prompt customers to update their details|顧客に情報更新を促す|prompt staff to review the policy|職員に方針の確認を促す
+necessitate|必要にする|nəˈsesɪteɪt|v|necessitate further discussion|さらなる議論を必要にする|necessitate a change of venue|会場変更を必要にする
+accrue|発生して積み上がる|əˈkruː|v|accrue interest over time|時間とともに利息が積み上がる|accrue additional costs|追加費用が積み上がる
+appraise|価値を査定する|əˈpreɪz|v|appraise the property|不動産の価値を査定する|appraise the equipment's value|機器の価値を査定する
+augment|増大させる|ɔːɡˈment|v|augment the workforce|労働力を増大させる|augment existing resources|既存の資源を増大させる
+alleviate|和らげる|əˈliːvieɪt|v|alleviate traffic congestion|交通混雑を和らげる|alleviate pressure on staff|職員への負担を和らげる
+disseminate|広く伝える|dɪˈsemɪneɪt|v|disseminate safety information|安全情報を広く伝える|disseminate the survey findings|調査結果を広く伝える
+formulate|考案してまとめる|ˈfɔːrmjəleɪt|v|formulate a long-term strategy|長期戦略を考案してまとめる|formulate clear guidelines|明確な指針を考案してまとめる
+commence|開始する|kəˈmens|v|commence construction|建設を開始する|commence the inspection|検査を開始する
+cease|やめる|siːs|v|cease production temporarily|生産を一時的にやめる|cease using obsolete equipment|廃れた機器の使用をやめる
+convene|招集する|kənˈviːn|v|convene an emergency meeting|緊急会議を招集する|convene the review committee|審査委員会を招集する
+preside|議長を務める|prɪˈzaɪd|v|preside over the meeting|会議の議長を務める|preside over the annual conference|年次会議の議長を務める
+liaise|連絡調整する|liˈeɪz|v|liaise with local authorities|地元当局と連絡調整する|liaise with the design team|設計担当者と連絡調整する
+solicit|求めて募る|səˈlɪsɪt|v|solicit customer feedback|顧客の意見を募る|solicit bids from contractors|請負業者から入札を募る
+furnish|備え付ける|ˈfɜːrnɪʃ|v|furnish the new office|新事務所に家具を備え付ける|furnish the lobby with chairs|ロビーに椅子を備え付ける

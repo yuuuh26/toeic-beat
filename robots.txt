@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# HTML contains noindex,nofollow. Crawlers must read the page to see noindex.
+# For project Pages, the origin's /robots.txt belongs to the root site.

@@ -1,0 +1,106 @@
+@文章読解・変更
+anticipate|予期する|ænˈtɪsɪpeɪt|v|anticipate increased demand|需要の増加を予期する|anticipate possible delays|遅延の可能性を予期する
+attribute|原因を帰する|əˈtrɪbjuːt|v|attribute growth to better service|成長の原因をサービス改善に帰する|attribute the delay to bad weather|遅延の原因を悪天候に帰する
+entail|伴う|ɪnˈteɪl|v|entail additional costs|追加費用を伴う|entail significant changes|大きな変更を伴う
+incur|負担する・招く|ɪnˈkɜːr|v|incur additional charges|追加料金を負担する|incur unnecessary costs|不要な費用を負担する
+undergo|受ける|ˌʌndərˈɡoʊ|v|undergo safety training|安全研修を受ける|undergo a formal evaluation|正式な評価を受ける
+undertake|引き受ける|ˌʌndərˈteɪk|v|undertake a major project|大きな事業を引き受ける|undertake the necessary repairs|必要な修理を引き受ける
+revise|改訂する|rɪˈvaɪz|v|revise the estimate|見積もりを改訂する|revise the training manual|研修説明書を改訂する
+modify|変更する|ˈmɑːdɪfaɪ|v|modify the design|設計を変更する|modify the payment schedule|支払い予定を変更する
+eliminate|排除する|ɪˈlɪmɪneɪt|v|eliminate unnecessary steps|不要な手順を排除する|eliminate duplicate records|重複記録を排除する
+streamline|効率化する|ˈstriːmlaɪn|v|streamline the application process|申請手続きを効率化する|streamline daily operations|日常業務を効率化する
+consolidate|統合する|kənˈsɑːlɪdeɪt|v|consolidate regional offices|地域事務所を統合する|consolidate several accounts|複数の口座を統合する
+incorporate|組み込む|ɪnˈkɔːrpəreɪt|v|incorporate customer feedback|顧客の意見を組み込む|incorporate new safety features|新しい安全機能を組み込む
+reinforce|強化する|ˌriːɪnˈfɔːrs|v|reinforce safety awareness|安全意識を強化する|reinforce the building structure|建物の構造を補強する
+enhance|高める|ɪnˈhæns|v|enhance customer satisfaction|顧客満足度を高める|enhance the user experience|利用体験を高める
+sustain|持続させる|səˈsteɪn|v|sustain steady growth|安定した成長を持続させる|sustain customer interest|顧客の関心を持続させる
+preserve|保存する|prɪˈzɜːrv|v|preserve historic features|歴史的な特徴を保存する|preserve original documents|原本の書類を保存する
+restore|復旧する|rɪˈstɔːr|v|restore normal service|通常のサービスを復旧する|restore the damaged building|損傷した建物を復元する
+resume|再開する|rɪˈzuːm|v|resume normal operations|通常業務を再開する|resume the training sessions|研修を再開する
+suspend|一時停止する|səˈspend|v|suspend deliveries temporarily|配送を一時停止する|suspend the service for maintenance|保守のためサービスを一時停止する
+discontinue|打ち切る|ˌdɪskənˈtɪnjuː|v|discontinue the product line|製品シリーズを打ち切る|discontinue paper statements|紙の明細書を廃止する
+@計画・制約
+feasible|実行可能な|ˈfiːzəbəl|a|propose a feasible solution|実行可能な解決策を提案する|identify feasible options|実行可能な選択肢を特定する
+viable|存続可能な|ˈvaɪəbəl|a|develop a viable business model|存続可能な事業モデルを開発する|choose a financially viable option|財務上成り立つ選択肢を選ぶ
+prospective|見込みのある|prəˈspektɪv|a|contact prospective clients|見込みのある顧客に連絡する|invite prospective tenants|入居見込みのある借り手を招く
+tentative|仮の|ˈtentətɪv|a|prepare a tentative schedule|仮の予定表を作成する|propose a tentative date|仮の日程を提案する
+provisional|暫定的な|prəˈvɪʒənəl|a|issue provisional approval|暫定的な承認を出す|set a provisional budget|暫定予算を設定する
+contingent|条件次第の|kənˈtɪndʒənt|a|make payment contingent on delivery|支払いを納品が条件となるものにする|make approval contingent on inspection|承認を検査が条件となるものにする
+simultaneous|同時の|ˌsaɪməlˈteɪniəs|a|arrange simultaneous interpretation|同時通訳を手配する|coordinate simultaneous launches|同時発売を調整する
+subsequent|その後の|ˈsʌbsɪkwənt|a|schedule subsequent visits|その後の訪問を予定する|review subsequent orders|その後の注文を検討する
+preceding|直前の|prɪˈsiːdɪŋ|a|review the preceding paragraph|直前の段落を見直す|compare figures from the preceding year|前年の数字を比較する
+mutual|相互の|ˈmjuːtʃuəl|a|build mutual trust|相互の信頼を築く|reach a mutual agreement|相互の合意に達する
+exclusive|独占的な|ɪkˈskluːsɪv|a|negotiate exclusive rights|独占的な権利を交渉する|offer an exclusive preview|限定の事前公開を提供する
+exceptional|並外れた|ɪkˈsepʃənəl|a|provide exceptional service|並外れたサービスを提供する|recognize exceptional performance|並外れた業績を評価する
+considerable|かなりの|kənˈsɪdərəbəl|a|invest considerable time|かなりの時間を投じる|achieve considerable savings|かなりの節約を達成する
+extensive|広範囲の|ɪkˈstensɪv|a|conduct extensive research|広範囲の調査を行う|provide extensive training|広範囲の研修を提供する
+thorough|徹底的な|ˈθɜːroʊ|a|conduct a thorough inspection|徹底的な点検を行う|prepare a thorough analysis|徹底的な分析を準備する
+precise|精密な|prɪˈsaɪs|a|take precise measurements|精密な測定を行う|provide precise directions|正確な道順を示す
+vulnerable|影響を受けやすい|ˈvʌlnərəbəl|a|protect vulnerable equipment|影響を受けやすい機器を保護する|identify systems vulnerable to failure|故障に弱いシステムを特定する
+obsolete|廃れた|ˌɑːbsəˈliːt|a|replace obsolete equipment|廃れた機器を交換する|remove obsolete procedures|廃れた手順を取り除く
+compatible|互換性のある|kəmˈpætəbəl|a|choose compatible software|互換性のあるソフトを選ぶ|install compatible components|互換性のある部品を設置する
+versatile|多用途の|ˈvɜːrsətəl|a|design a versatile tool|多用途の道具を設計する|recommend versatile equipment|多用途の機器を勧める
+@施設・旅行
+premises|敷地・建物|ˈpremɪsɪz|n|inspect the premises|敷地と建物を点検する|secure the premises at night|夜間に敷地と建物の安全を確保する
+venue|会場|ˈvenjuː|n|reserve the conference venue|会議の会場を予約する|inspect a potential venue|会場候補を下見する
+amenity|快適さを高める設備|əˈmenəti|n|add a useful amenity|便利な設備を追加する|promote each hotel amenity|ホテルの各設備を宣伝する
+occupancy|入居・稼働|ˈɑːkjəpənsi|n|increase the occupancy rate|客室稼働率を高める|prepare the building for occupancy|入居に向けて建物を準備する
+accommodation|宿泊施設|əˌkɑːməˈdeɪʃən|n|arrange overnight accommodation|一泊の宿泊施設を手配する|reserve suitable accommodation|適切な宿泊施設を予約する
+excursion|小旅行|ɪkˈskɜːrʒən|n|arrange a guided excursion|案内付き小旅行を手配する|join an afternoon excursion|午後の小旅行に参加する
+detour|迂回路|ˈdiːtʊr|n|follow the marked detour|表示された迂回路を進む|plan a temporary detour|一時的な迂回路を計画する
+congestion|混雑|kənˈdʒestʃən|n|avoid traffic congestion|交通の混雑を避ける|reduce congestion near the entrance|入口付近の混雑を減らす
+commute|通勤|kəˈmjuːt|n|shorten the daily commute|毎日の通勤を短縮する|plan a more convenient commute|より便利な通勤を計画する
+fare|運賃|fer|n|compare the train fare|鉄道運賃を比較する|pay the standard fare|通常運賃を支払う
+voucher|引換券|ˈvaʊtʃər|n|issue a meal voucher|食事の引換券を発行する|redeem the travel voucher|旅行の引換券を利用する
+catering|料理の提供サービス|ˈkeɪtərɪŋ|n|arrange catering for the event|行事の料理提供を手配する|compare catering services|料理提供サービスを比較する
+banquet|宴会|ˈbæŋkwɪt|n|host an annual banquet|年次の宴会を主催する|reserve the banquet hall|宴会場を予約する
+admission|入場|ədˈmɪʃən|n|offer free admission|無料入場を提供する|check admission tickets|入場券を確認する
+exhibition|展示会|ˌeksɪˈbɪʃən|n|organize a trade exhibition|見本展示会を企画する|visit the technology exhibition|技術展示会を訪れる
+attendance|出席者数・出席|əˈtendəns|n|record meeting attendance|会議の出席を記録する|increase conference attendance|会議の出席者数を増やす
+registration|登録|ˌredʒɪˈstreɪʃən|n|complete online registration|オンライン登録を完了する|extend the registration period|登録期間を延長する
+accompany|同行する|əˈkʌmpəni|v|accompany the visiting director|訪問する役員に同行する|accompany guests to the venue|客に会場まで同行する
+escort|案内して連れていく|ˈeskɔːrt|v|escort visitors to reception|訪問者を受付へ案内する|escort guests to their seats|客を席へ案内する
+redeem|引き換える|rɪˈdiːm|v|redeem a gift voucher|贈答用の引換券を引き換える|redeem reward points|特典ポイントを引き換える
+@数量・論理
+accordingly|それに応じて|əˈkɔːrdɪŋli|d|adjust the schedule accordingly|それに応じて予定を調整する|revise the budget accordingly|それに応じて予算を改訂する
+consequently|その結果として|ˈkɑːnsəkwentli|d|consequently require more storage|その結果として追加の保管場所を必要とする|consequently incur higher costs|その結果として高い費用を負担する
+nevertheless|それにもかかわらず|ˌnevərðəˈles|d|nevertheless continue the project|それにもかかわらず事業を続ける|nevertheless offer a refund|それにもかかわらず返金を提供する
+otherwise|そうでなければ|ˈʌðərwaɪz|d|otherwise miss the deadline|そうでなければ締め切りに遅れる|otherwise incur additional fees|そうでなければ追加料金を負担する
+subsequently|その後で|ˈsʌbsɪkwəntli|d|subsequently review the results|その後で結果を検討する|subsequently expand the service|その後でサービスを拡大する
+respectively|それぞれ|rɪˈspektɪvli|d|assign Ken and Mia to sales and finance respectively|ケンとミアをそれぞれ営業と財務に配置する|allocate ten and twenty chairs to rooms A and B respectively|A室とB室にそれぞれ10脚と20脚の椅子を割り当てる
+primarily|主として|praɪˈmerəli|d|focus primarily on service|主としてサービスに集中する|use the space primarily for storage|主として保管にその空間を使う
+exclusively|もっぱら|ɪkˈskluːsɪvli|d|sell exclusively online|もっぱらオンラインで販売する|work exclusively with local suppliers|もっぱら地元の供給業者と取引する
+considerably|かなり|kənˈsɪdərəbli|d|reduce costs considerably|費用をかなり減らす|expand the range considerably|品ぞろえをかなり拡大する
+relatively|比較的|ˈrelətɪvli|d|offer relatively low prices|比較的安い価格を提示する|choose a relatively quiet venue|比較的静かな会場を選ぶ
+increasingly|ますます|ɪnˈkriːsɪŋli|d|use increasingly efficient methods|ますます効率的な方法を使う|face increasingly complex requests|ますます複雑な依頼に直面する
+eventually|最終的には|ɪˈventʃuəli|d|eventually open another branch|最終的には別の支店を開く|eventually replace the system|最終的にはシステムを交換する
+initially|当初は|ɪˈnɪʃəli|d|initially offer a limited service|当初は限定的なサービスを提供する|initially hire five assistants|当初は5人の補助員を雇う
+briefly|手短に|ˈbriːfli|d|briefly explain the changes|変更を手短に説明する|briefly summarize the findings|調査結果を手短に要約する
+readily|容易に|ˈredɪli|d|provide readily available materials|容易に入手できる材料を提供する|readily accept reasonable requests|妥当な依頼を進んで受け入れる
+@事業上の概念
+constraint|制約|kənˈstreɪnt|n|identify the main constraint|主な制約を特定する|work within the budget constraint|予算の制約内で仕事をする
+alternative|代替案|ɔːlˈtɜːrnətɪv|n|consider a cheaper alternative|より安い代替案を検討する|propose a practical alternative|実用的な代替案を提案する
+initiative|新たな取り組み|ɪˈnɪʃətɪv|n|launch a recycling initiative|リサイクルの取り組みを始める|support the training initiative|研修の取り組みを支える
+transition|移行|trænˈzɪʃən|n|manage the transition|移行を管理する|ensure a smooth transition|円滑な移行を確保する
+outcome|結果|ˈaʊtkʌm|n|evaluate the outcome|結果を評価する|improve the project outcome|事業の結果を改善する
+implication|予想される影響|ˌɪmplɪˈkeɪʃən|n|consider the financial implication|財務上の影響を考慮する|explain the practical implication|実務上の影響を説明する
+perspective|観点|pərˈspektɪv|n|consider the customer's perspective|顧客の観点を考慮する|offer a different perspective|異なる観点を提供する
+priority|優先事項|praɪˈɔːrəti|n|make safety a priority|安全を優先事項にする|identify the top priority|最優先事項を特定する
+commitment|確約・専念|kəˈmɪtmənt|n|demonstrate a commitment to quality|品質への専念を示す|honor a delivery commitment|納品の確約を守る
+reputation|評判|ˌrepjəˈteɪʃən|n|build a strong reputation|高い評判を築く|protect the company's reputation|会社の評判を守る
+expertise|専門知識|ˌekspɜːrˈtiːz|n|share technical expertise|技術的な専門知識を共有する|develop expertise in accounting|会計の専門知識を養う
+insight|洞察|ˈɪnsaɪt|n|gain insight into customer needs|顧客の要望への洞察を得る|offer valuable insight|貴重な洞察を提供する
+scope|範囲|skoʊp|n|define the project scope|事業の範囲を定める|expand the scope of the review|検討範囲を広げる
+specification|仕様|ˌspesɪfɪˈkeɪʃən|n|check the technical specification|技術仕様を確認する|revise the product specification|製品仕様を改訂する
+discrepancy|不一致|dɪˈskrepənsi|n|investigate the discrepancy|不一致を調査する|resolve the pricing discrepancy|価格の不一致を解決する
+@仕事の進め方
+occasionally|時折|əˈkeɪʒənəli|d|occasionally visit regional offices|時折地方事務所を訪れる|occasionally work from home|時折自宅で働く
+inadvertently|うっかり|ˌɪnədˈvɜːrtəntli|d|inadvertently omit a document|うっかり書類を省く|inadvertently charge the wrong amount|うっかり誤った金額を請求する
+exceed|超える|ɪkˈsiːd|v|exceed the sales target|売上目標を超える|exceed customer expectations|顧客の期待を超える
+outsource|外部委託する|ˈaʊtsɔːrs|v|outsource routine maintenance|定型的な保守を外部委託する|outsource delivery services|配送業務を外部委託する
+customize|特注で変更する|ˈkʌstəmaɪz|v|customize the software|ソフトを特注で変更する|customize the training program|研修計画を個別に調整する
+prioritize|優先順位を付ける|praɪˈɔːrətaɪz|v|prioritize urgent orders|緊急注文に優先順位を付ける|prioritize maintenance tasks|保守作業に優先順位を付ける
+reschedule|日程を変更する|ˌriːˈskedʒuːl|v|reschedule the interview|面接の日程を変更する|reschedule the site visit|現地訪問の日程を変更する
+adhesive|粘着性のある|ədˈhiːsɪv|a|order adhesive labels|粘着ラベルを注文する|use adhesive tape|粘着テープを使う
+durable|耐久性のある|ˈdʊrəbəl|a|choose durable materials|耐久性のある材料を選ぶ|produce durable furniture|耐久性のある家具を生産する
+portable|携帯可能な|ˈpɔːrtəbəl|a|purchase a portable scanner|携帯可能な読み取り機を購入する|test portable equipment|携帯可能な機器を試験する

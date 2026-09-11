@@ -1,0 +1,105 @@
+@事業・企画
+implement|実施する|ˈɪmplɪment|v|implement the new policy|新方針を実施する|implement a training program|研修計画を実施する
+develop|開発する|dɪˈveləp|v|develop new software|新しいソフトを開発する|develop a marketing strategy|販売戦略を策定する
+establish|設立する|ɪˈstæblɪʃ|v|establish a regional office|地域事務所を設立する|establish a research center|研究所を設立する
+expand|拡大する|ɪkˈspænd|v|expand the business|事業を拡大する|expand into overseas markets|海外市場へ進出する
+launch|発売する|lɔːntʃ|v|launch a new product|新商品を発売する|launch a mobile application|携帯用アプリを公開する
+evaluate|評価する|ɪˈvæljueɪt|v|evaluate the results|結果を評価する|evaluate employee performance|従業員の業績を評価する
+analyze|分析する|ˈænəlaɪz|v|analyze sales data|売上データを分析する|analyze market trends|市場動向を分析する
+identify|特定する|aɪˈdentɪfaɪ|v|identify the cause|原因を特定する|identify potential risks|潜在的リスクを特定する
+conduct|行う|kənˈdʌkt|v|conduct a survey|調査を行う|conduct a safety inspection|安全点検を行う
+coordinate|調整する|koʊˈɔːrdɪneɪt|v|coordinate delivery times|配送時間を調整する|coordinate with local staff|地元職員と連携する
+collaborate|共同で取り組む|kəˈlæbəreɪt|v|collaborate with designers|デザイナーと共同で取り組む|collaborate on the project|その事業に共同で取り組む
+demonstrate|実演する|ˈdemənstreɪt|v|demonstrate the new device|新しい装置を実演する|demonstrate safe operation|安全な操作を実演する
+monitor|監視する|ˈmɑːnɪtər|v|monitor production quality|生産品質を監視する|monitor energy consumption|エネルギー消費を監視する
+inspect|点検する|ɪnˈspekt|v|inspect the machinery|機械を点検する|inspect the building regularly|建物を定期的に点検する
+install|設置する|ɪnˈstɔːl|v|install the security system|防犯システムを設置する|install new lighting|新しい照明を設置する
+operate|操作する|ˈɑːpəreɪt|v|operate the machine safely|機械を安全に操作する|operate the equipment remotely|機器を遠隔操作する
+repair|修理する|rɪˈper|v|repair the elevator|エレベーターを修理する|repair the damaged roof|損傷した屋根を修理する
+renovate|改装する|ˈrenəveɪt|v|renovate the lobby|ロビーを改装する|renovate the old warehouse|古い倉庫を改装する
+relocate|移転する|ˌriːloʊˈkeɪt|v|relocate the main office|本事務所を移転する|relocate to a larger building|より大きな建物へ移転する
+distribute|配布する|dɪˈstrɪbjuːt|v|distribute brochures|パンフレットを配布する|distribute the revised schedule|改訂した予定表を配布する
+@販売・経営
+strategy|戦略|ˈstrætədʒi|n|develop a pricing strategy|価格戦略を立てる|review the marketing strategy|販売戦略を見直す
+objective|目標|əbˈdʒektɪv|n|set a clear objective|明確な目標を設定する|achieve the main objective|主な目標を達成する
+performance|業績|pərˈfɔːrməns|n|review sales performance|販売業績を検討する|improve financial performance|財務業績を改善する
+productivity|生産性|ˌproʊdʌkˈtɪvəti|n|increase productivity|生産性を高める|measure staff productivity|職員の生産性を測定する
+capacity|能力・容量|kəˈpæsəti|n|expand storage capacity|保管容量を拡大する|increase production capacity|生産能力を高める
+demand|需要|dɪˈmænd|n|meet growing demand|増加する需要に応える|forecast seasonal demand|季節的な需要を予測する
+competition|競争|ˌkɑːmpəˈtɪʃən|n|face strong competition|激しい競争に直面する|encourage fair competition|公正な競争を促す
+competitor|競合他社|kəmˈpetɪtər|n|study a major competitor|主要な競合他社を調べる|monitor competitor prices|競合他社の価格を監視する
+manufacturer|製造業者|ˌmænjəˈfæktʃərər|n|contact the manufacturer|製造業者に連絡する|choose a local manufacturer|地元の製造業者を選ぶ
+supplier|供給業者|səˈplaɪər|n|negotiate terms with the supplier|供給業者と条件を交渉する|find a reliable supplier|信頼できる供給業者を見つける
+retailer|小売業者|ˈriːteɪlər|n|visit a local retailer|地元の小売業者を訪れる|supply a national retailer|全国展開の小売業者に供給する
+wholesaler|卸売業者|ˈhoʊlseɪlər|n|contact a food wholesaler|食品卸売業者に連絡する|negotiate with the wholesaler|卸売業者と交渉する
+distributor|販売代理店|dɪˈstrɪbjətər|n|appoint a regional distributor|地域の販売代理店を任命する|contact the authorized distributor|正規販売代理店に連絡する
+merchandise|商品|ˈmɜːrtʃəndaɪz|n|display seasonal merchandise|季節商品を展示する|return damaged merchandise|破損した商品を返品する
+warranty|保証|ˈwɔːrənti|n|extend the warranty|保証を延長する|check the warranty period|保証期間を確認する
+discount|値引き|ˈdɪskaʊnt|n|offer a volume discount|数量に応じた値引きを提供する|apply the promotional discount|販促用の値引きを適用する
+promotion|販売促進活動|prəˈmoʊʃən|n|plan a summer promotion|夏の販売促進活動を計画する|evaluate the sales promotion|販売促進活動を評価する
+brochure|パンフレット|broʊˈʃʊr|n|design a product brochure|商品パンフレットをデザインする|distribute the travel brochure|旅行パンフレットを配布する
+catalog|商品目録|ˈkætəlɔːɡ|n|update the online catalog|オンライン商品目録を更新する|print a new catalog|新しい商品目録を印刷する
+subscription|定期購読|səbˈskrɪpʃən|n|renew the magazine subscription|雑誌の定期購読を更新する|cancel the annual subscription|年間の定期購読を取り消す
+@人材・連絡
+recruit|採用する|rɪˈkruːt|v|recruit skilled workers|熟練労働者を採用する|recruit new graduates|新卒者を採用する
+assign|担当を割り当てる|əˈsaɪn|v|assign specific tasks|具体的な仕事を割り当てる|assign a project leader|事業の責任者を任命する
+supervise|監督する|ˈsuːpərvaɪz|v|supervise the installation|設置作業を監督する|supervise new employees|新入社員を監督する
+authorize|権限を与える|ˈɔːθəraɪz|v|authorize the agent to negotiate|代理人に交渉の権限を与える|authorize staff to issue refunds|職員に返金の権限を与える
+compensate|補償する|ˈkɑːmpənseɪt|v|compensate customers for delays|遅延について顧客に補償する|compensate workers for overtime|残業について労働者に報酬を支払う
+reimburse|立替金を払い戻す|ˌriːɪmˈbɜːrs|v|reimburse travel expenses|旅費の立替金を払い戻す|reimburse staff for meals|食費の立替金を職員に払い戻す
+resign|辞職する|rɪˈzaɪn|v|resign from the board|取締役を辞職する|resign from the position|その職を辞職する
+retire|退職する|rɪˈtaɪər|v|retire at sixty-five|65歳で退職する|retire from full-time work|常勤の仕事から退職する
+consult|相談する|kənˈsʌlt|v|consult a specialist|専門家に相談する|consult the legal department|法務部に相談する
+inform|知らせる|ɪnˈfɔːrm|v|inform staff of the changes|変更を職員に知らせる|inform customers about the closure|休業について顧客に知らせる
+acknowledge|受領を知らせる|əkˈnɑːlɪdʒ|v|acknowledge receipt of the order|注文の受領を知らせる|acknowledge the application by email|申請の受領をメールで知らせる
+clarify|明確にする|ˈklærəfaɪ|v|clarify the instructions|指示を明確にする|clarify the payment terms|支払条件を明確にする
+explain|説明する|ɪkˈspleɪn|v|explain the procedure|手順を説明する|explain the revised policy|改訂した方針を説明する
+emphasize|強調する|ˈemfəsaɪz|v|emphasize safety|安全を強調する|emphasize the benefits|利点を強調する
+address|対処する|əˈdres|v|address customer concerns|顧客の懸念に対処する|address the staffing shortage|人手不足に対処する
+handle|取り扱う|ˈhændəl|v|handle fragile items|壊れやすい品物を取り扱う|handle customer inquiries|顧客の問い合わせを扱う
+respond|返答する|rɪˈspɑːnd|v|respond to the email|メールに返答する|respond to requests promptly|依頼に速やかに返答する
+refer|参照する|rɪˈfɜːr|v|refer to the manual|説明書を参照する|refer to the attached chart|添付の図表を参照する
+attach|添付する|əˈtætʃ|v|attach a receipt|領収書を添付する|attach the completed form|記入済み用紙を添付する
+enclose|同封する|ɪnˈkloʊz|v|enclose a reply envelope|返信用封筒を同封する|enclose a copy of the invoice|請求書の写しを同封する
+@条件・品質
+significant|重要な・大きな|sɪɡˈnɪfɪkənt|a|make significant progress|大きな進歩を遂げる|report significant savings|大きな節約を報告する
+substantial|相当な|səbˈstænʃəl|a|make a substantial investment|相当な投資を行う|achieve substantial growth|相当な成長を達成する
+potential|潜在的な|pəˈtenʃəl|a|identify potential customers|潜在的な顧客を特定する|assess potential risks|潜在的なリスクを評価する
+specific|具体的な|spəˈsɪfɪk|a|provide specific instructions|具体的な指示を与える|address specific concerns|具体的な懸念に対処する
+relevant|関連のある|ˈreləvənt|a|include relevant information|関連情報を含める|review relevant documents|関連書類を検討する
+comprehensive|包括的な|ˌkɑːmprɪˈhensɪv|a|prepare a comprehensive report|包括的な報告書を作成する|offer comprehensive training|包括的な研修を提供する
+flexible|柔軟な|ˈfleksəbəl|a|offer flexible working hours|柔軟な勤務時間を提供する|develop a flexible schedule|柔軟な予定表を作成する
+consistent|一貫した|kənˈsɪstənt|a|maintain consistent quality|一貫した品質を維持する|provide consistent service|一貫したサービスを提供する
+adequate|十分な|ˈædɪkwət|a|provide adequate training|十分な研修を提供する|ensure adequate ventilation|十分な換気を確保する
+essential|不可欠な|ɪˈsenʃəl|a|order essential supplies|不可欠な備品を注文する|provide essential information|不可欠な情報を提供する
+optional|任意の|ˈɑːpʃənəl|a|offer optional training|任意の研修を提供する|list optional services|任意のサービスを一覧にする
+mandatory|義務的な|ˈmændətɔːri|a|attend mandatory training|義務付けられた研修に出席する|complete the mandatory inspection|義務的な検査を終える
+confidential|機密の|ˌkɑːnfɪˈdenʃəl|a|protect confidential information|機密情報を保護する|store confidential documents securely|機密文書を安全に保管する
+valid|有効な|ˈvælɪd|a|present a valid ticket|有効な切符を提示する|check for a valid signature|有効な署名があるか確認する
+outstanding|未払いの|aʊtˈstændɪŋ|a|pay the outstanding balance|未払い残高を支払う|collect outstanding invoices|未払い請求額を回収する
+defective|欠陥のある|dɪˈfektɪv|a|replace defective parts|欠陥部品を取り替える|return defective merchandise|欠陥商品を返品する
+fragile|壊れやすい|ˈfrædʒəl|a|pack fragile items carefully|壊れやすい品物を慎重に梱包する|label fragile packages|壊れやすい荷物に表示を付ける
+spacious|広々とした|ˈspeɪʃəs|a|reserve a spacious room|広々とした部屋を予約する|rent a spacious office|広々とした事務所を借りる
+accessible|アクセスしやすい|əkˈsesəbəl|a|choose an accessible venue|アクセスしやすい会場を選ぶ|provide accessible facilities|利用しやすい施設を提供する
+complimentary|無料の|ˌkɑːmplɪˈmentəri|a|offer complimentary breakfast|無料の朝食を提供する|provide complimentary tickets|無料の切符を提供する
+@会計・組織
+payment|支払い|ˈpeɪmənt|n|confirm the payment|支払いを確認する|arrange payment in advance|前払いを手配する
+deposit|保証金・預け金|dɪˈpɑːzɪt|n|pay a security deposit|保証金を支払う|return the rental deposit|賃貸の保証金を返す
+balance|残高|ˈbæləns|n|check the account balance|口座残高を確認する|pay the remaining balance|残りの残高を支払う
+transaction|取引|trænˈzækʃən|n|record the transaction|取引を記録する|verify each transaction|取引を一つずつ確認する
+fee|手数料|fiː|n|pay the registration fee|登録手数料を支払う|waive the service fee|サービス手数料を免除する
+charge|料金|tʃɑːrdʒ|n|explain the delivery charge|配送料金を説明する|remove the extra charge|追加料金を取り除く
+fund|資金|fʌnd|n|establish an emergency fund|緊急資金を設ける|contribute to the training fund|研修資金に拠出する
+investment|投資|ɪnˈvestmənt|n|review the investment plan|投資計画を検討する|encourage investment in training|研修への投資を奨励する
+growth|成長|ɡroʊθ|n|support sustainable growth|持続可能な成長を支える|forecast revenue growth|売上の成長を予測する
+trend|傾向|trend|n|identify the latest trend|最新の傾向を特定する|analyze the spending trend|支出の傾向を分析する
+survey|調査|ˈsɜːrveɪ|n|conduct a customer survey|顧客調査を行う|review the survey results|調査結果を検討する
+research|研究|ˈriːsɜːrtʃ|n|conduct market research|市場調査を実施する|fund further research|さらなる研究に資金を提供する
+resource|資源|ˈriːsɔːrs|n|protect a valuable resource|貴重な資源を保護する|improve resource allocation|資源配分を改善する
+benefit|福利厚生・給付|ˈbenɪfɪt|n|review the benefit package|福利厚生の内容を見直す|explain the retirement benefit|退職給付を説明する
+salary|給与|ˈsæləri|n|negotiate the starting salary|初任給を交渉する|review the salary structure|給与体系を見直す
+qualification|資格|ˌkwɑːlɪfɪˈkeɪʃən|n|obtain a professional qualification|専門資格を取得する|verify the required qualification|必要な資格を確認する
+experience|経験|ɪkˈspɪriəns|n|gain practical experience|実務経験を得る|share relevant experience|関連する経験を共有する
+reference|推薦状・照会先|ˈrefərəns|n|request a professional reference|職業上の推薦状を求める|provide a reference for a colleague|同僚の推薦状を提供する
+orientation|新入社員研修|ˌɔːriənˈteɪʃən|n|attend the orientation session|新入社員研修に出席する|organize an orientation program|新入社員研修を企画する
+probation|試用期間|proʊˈbeɪʃən|n|complete the probation period|試用期間を終える|review performance during probation|試用期間中の業績を検討する

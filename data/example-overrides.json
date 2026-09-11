@@ -1,0 +1,19 @@
+{
+ "entail": ["The renovation will entail additional costs.","改装には追加費用が伴う。","The merger may entail significant changes.","合併には大きな変更が伴う可能性がある。"],
+ "incur": ["Late payments may incur additional charges.","支払いの遅れには追加料金がかかる場合がある。","We incurred unnecessary costs last month.","私たちは先月、不要な費用を負担した。"],
+ "necessitate": ["The new rules necessitate further discussion.","新規則にはさらなる議論が必要だ。","Heavy rain may necessitate a change of venue.","大雨で会場変更が必要になる可能性がある。"],
+ "supersede": ["This document will supersede the previous agreement.","この文書は以前の合意に取って代わる。","The new rules supersede the existing guidelines.","新規則は既存の指針に取って代わる。"],
+ "preclude": ["Early planning can preclude further delays.","早めの計画でさらなる遅延を防げる。","These controls preclude unauthorized access.","これらの管理措置は無許可のアクセスを不可能にする。"],
+ "accrue": ["Interest will accrue over time.","利息は時間とともに発生して積み上がる。","Additional costs may accrue during the delay.","遅延中に追加費用が積み上がる可能性がある。"],
+ "inadvertently": ["I inadvertently omitted a document from the application.","私はうっかり申請書類から一つの書類を抜かしてしまった。","The clerk inadvertently charged the wrong amount.","係員はうっかり誤った金額を請求した。"],
+ "otherwise": ["Please reply today; otherwise, we may miss the deadline.","今日返信してください。そうでなければ締め切りに遅れるかもしれません。","Pay by Friday; otherwise, additional fees will apply.","金曜日までに払ってください。そうでなければ追加料金がかかります。"],
+ "consequently": ["Orders doubled. Consequently, we need more storage.","注文が倍増した。その結果、さらに保管場所が必要だ。","Fuel prices rose. Consequently, delivery costs increased.","燃料価格が上がった。その結果、配送費が増加した。"],
+ "nevertheless": ["The budget is small. Nevertheless, we will continue the project.","予算は少ない。それにもかかわらず、私たちは事業を続ける。","The warranty expired. Nevertheless, the store offered a refund.","保証は切れていた。それにもかかわらず店は返金を申し出た。"],
+ "respectively": ["Ken and Mia joined sales and finance, respectively.","ケンとミアはそれぞれ営業部と財務部に入った。","The small and large rooms seat ten and twenty people, respectively.","小部屋と大部屋はそれぞれ10人と20人を収容できる。"],
+ "invariably": ["The manager invariably checks every receipt.","管理者はいつも例外なく領収書をすべて確認する。","Our technicians invariably follow safety procedures.","当社の技術者はいつも例外なく安全手順に従う。"],
+ "implicitly": ["By using the service, customers implicitly accept these terms.","サービスの利用により、顧客は暗黙にこれらの条件を受け入れる。","The revised schedule implicitly acknowledges the delay.","改訂された予定表は遅延を暗黙に認めている。"],
+ "contingent": ["Payment is contingent on delivery.","支払いは納品が条件となる。","Approval is contingent on a successful inspection.","承認は検査に合格することが条件となる。"],
+ "instrumental": ["Mia played an instrumental role in the launch.","ミアは発売に重要な役割を果たした。","The support team was instrumental in solving the problem.","支援担当チームは問題の解決に重要な役割を果たした。"],
+ "paramount": ["Customer safety is paramount.","顧客の安全が最も重要だ。","Product quality is of paramount importance to us.","製品品質は私たちにとって最も重要だ。"],
+ "liable": ["The supplier is liable for the damage.","供給業者は損害の責任を負う。","The tenant may be liable for repair costs.","借り手が修理費を負担する場合がある。"]
+}

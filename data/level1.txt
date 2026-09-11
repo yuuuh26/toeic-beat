@@ -1,0 +1,106 @@
+# Business essentials: original collocations and Japanese translations.
+@業務・オフィス
+allocate|割り当てる|ˈæləkeɪt|v|allocate funds|資金を割り当てる|allocate enough time|十分な時間を配分する
+approve|承認する|əˈpruːv|v|approve the proposal|提案を承認する|approve the final design|最終デザインを承認する
+postpone|延期する|poʊstˈpoʊn|v|postpone the meeting|会議を延期する|postpone the launch|発売を延期する
+confirm|確認する|kənˈfɜːrm|v|confirm the appointment|面会の予約を確認する|confirm the delivery date|納品日を確認する
+submit|提出する|səbˈmɪt|v|submit an application|申請書を提出する|submit the report online|報告書をオンラインで提出する
+require|必要とする|rɪˈkwaɪər|v|require written permission|書面による許可を必要とする|require additional training|追加研修を必要とする
+provide|提供する|prəˈvaɪd|v|provide technical support|技術支援を提供する|provide free samples|無料サンプルを提供する
+arrange|手配する|əˈreɪndʒ|v|arrange transportation|交通手段を手配する|arrange a meeting|会議を手配する
+attend|出席する|əˈtend|v|attend the workshop|講習会に出席する|attend the annual conference|年次会議に出席する
+participate|参加する|pɑːrˈtɪsɪpeɪt|v|participate in the survey|調査に参加する|participate in the discussion|議論に参加する
+recommend|勧める|ˌrekəˈmend|v|recommend a local supplier|地元の供給業者を勧める|recommend a suitable venue|適切な会場を勧める
+notify|通知する|ˈnoʊtɪfaɪ|v|notify all employees|全従業員に通知する|notify customers of the change|変更を顧客に通知する
+request|依頼する|rɪˈkwest|v|request a refund|返金を依頼する|request further information|追加情報を依頼する
+purchase|購入する|ˈpɜːrtʃəs|v|purchase new equipment|新しい機器を購入する|purchase tickets in advance|前もって切符を購入する
+replace|取り替える|rɪˈpleɪs|v|replace the old printer|古いプリンターを取り替える|replace damaged parts|破損した部品を取り替える
+maintain|維持する|meɪnˈteɪn|v|maintain high standards|高い基準を維持する|maintain accurate records|正確な記録を維持する
+improve|改善する|ɪmˈpruːv|v|improve customer service|顧客サービスを改善する|improve overall efficiency|全体の効率を改善する
+reduce|減らす|rɪˈduːs|v|reduce operating costs|運営費を減らす|reduce packaging waste|包装ごみを減らす
+increase|増やす|ɪnˈkriːs|v|increase production capacity|生産能力を増やす|increase the advertising budget|広告予算を増やす
+extend|延長する|ɪkˈstend|v|extend the deadline|締め切りを延長する|extend business hours|営業時間を延長する
+@予定・文書
+deadline|締め切り|ˈdedlaɪn|n|meet the deadline|締め切りに間に合わせる|set a realistic deadline|現実的な締め切りを設定する
+appointment|面会の予約|əˈpɔɪntmənt|n|schedule an appointment|面会の予約を入れる|cancel the appointment|面会の予約を取り消す
+schedule|予定表|ˈskedʒuːl|n|check the schedule|予定表を確認する|update the production schedule|生産予定表を更新する
+reservation|予約|ˌrezərˈveɪʃən|n|make a hotel reservation|ホテルの予約をする|change the reservation|予約を変更する
+itinerary|旅程表|aɪˈtɪnəreri|n|review the travel itinerary|旅程表を確認する|send the revised itinerary|改訂した旅程表を送る
+agenda|議題一覧|əˈdʒendə|n|prepare the meeting agenda|会議の議題一覧を作成する|add an item to the agenda|議題一覧に項目を追加する
+proposal|提案書|prəˈpoʊzəl|n|review the proposal|提案書を検討する|prepare a detailed proposal|詳細な提案書を作成する
+invoice|請求書|ˈɪnvɔɪs|n|send an invoice|請求書を送る|check the invoice number|請求書番号を確認する
+receipt|領収書|rɪˈsiːt|n|keep the original receipt|領収書の原本を保管する|issue a printed receipt|印刷した領収書を発行する
+estimate|見積もり|ˈestɪmət|n|prepare a cost estimate|費用の見積もりを作成する|request a written estimate|書面の見積もりを依頼する
+budget|予算|ˈbʌdʒɪt|n|review the annual budget|年間予算を見直す|stay within the budget|予算内に収める
+expense|経費|ɪkˈspens|n|record each expense|経費を一つずつ記録する|submit an expense report|経費報告書を提出する
+revenue|売上高|ˈrevənuː|n|increase annual revenue|年間売上高を増やす|compare revenue figures|売上高の数字を比較する
+profit|利益|ˈprɑːfɪt|n|calculate the net profit|純利益を計算する|reinvest the profit|利益を再投資する
+contract|契約書|ˈkɑːntrækt|n|sign the contract|契約書に署名する|review the draft contract|契約書の草案を検討する
+policy|方針|ˈpɑːləsi|n|explain the new policy|新しい方針を説明する|review the refund policy|返金方針を見直す
+procedure|手順|prəˈsiːdʒər|n|follow the safety procedure|安全手順に従う|simplify the application procedure|申請手順を簡素化する
+requirement|要件|rɪˈkwaɪərmənt|n|meet every requirement|すべての要件を満たす|clarify the entry requirement|参加要件を明確にする
+permission|許可|pərˈmɪʃən|n|obtain written permission|書面による許可を得る|request permission to enter|入場許可を求める
+notice|お知らせ|ˈnoʊtɪs|n|post a notice|お知らせを掲示する|read the maintenance notice|保守作業のお知らせを読む
+@職場・顧客
+employee|従業員|ɪmˈplɔɪiː|n|train a new employee|新入社員を研修する|review employee feedback|従業員の意見を検討する
+supervisor|上司|ˈsuːpərvaɪzər|n|consult the supervisor|上司に相談する|notify the shift supervisor|シフトの上司に通知する
+colleague|同僚|ˈkɑːliːɡ|n|assist a colleague|同僚を手伝う|introduce a new colleague|新しい同僚を紹介する
+applicant|応募者|ˈæplɪkənt|n|interview each applicant|応募者を一人ずつ面接する|contact the successful applicant|採用された応募者に連絡する
+candidate|候補者|ˈkændɪdət|n|select a suitable candidate|適切な候補者を選ぶ|evaluate each candidate|候補者を一人ずつ評価する
+position|職|pəˈzɪʃən|n|apply for the vacant position|空いている職に応募する|advertise a management position|管理職の求人を出す
+department|部署|dɪˈpɑːrtmənt|n|contact the sales department|営業部署に連絡する|visit the accounting department|経理部署を訪れる
+branch|支店|bræntʃ|n|open a new branch|新しい支店を開く|visit the local branch|地元の支店を訪れる
+headquarters|本社|ˈhedkwɔːrtərz|n|relocate the headquarters|本社を移転する|visit the company headquarters|会社の本社を訪れる
+facility|施設|fəˈsɪləti|n|inspect the storage facility|保管施設を点検する|upgrade the training facility|研修施設を改良する
+equipment|機器|ɪˈkwɪpmənt|n|install new equipment|新しい機器を設置する|inspect the safety equipment|安全機器を点検する
+supply|供給|səˈplaɪ|n|maintain a steady supply|安定した供給を維持する|secure the water supply|水の供給を確保する
+inventory|在庫|ˈɪnvəntɔːri|n|check the inventory|在庫を確認する|reduce excess inventory|過剰在庫を減らす
+shipment|出荷品|ˈʃɪpmənt|n|track the shipment|出荷品を追跡する|inspect the incoming shipment|到着する出荷品を検査する
+delivery|配送|dɪˈlɪvəri|n|arrange express delivery|速達配送を手配する|confirm the delivery address|配送先の住所を確認する
+customer|顧客|ˈkʌstəmər|n|contact the customer|顧客に連絡する|improve customer satisfaction|顧客満足度を改善する
+client|依頼主|ˈklaɪənt|n|meet a prospective client|見込みのある依頼主と会う|discuss the client's needs|依頼主の要望を話し合う
+complaint|苦情|kəmˈpleɪnt|n|investigate the complaint|苦情を調査する|resolve a customer complaint|顧客の苦情を解決する
+feedback|意見・反応|ˈfiːdbæk|n|collect customer feedback|顧客の意見を集める|provide constructive feedback|建設的な意見を伝える
+inquiry|問い合わせ|ˈɪnkwaɪəri|n|respond to an inquiry|問い合わせに対応する|handle a sales inquiry|販売の問い合わせを扱う
+@品質・条件
+available|利用可能な|əˈveɪləbəl|a|check the available dates|利用可能な日付を確認する|list all available rooms|利用可能な部屋をすべて一覧にする
+convenient|便利な|kənˈviːniənt|a|choose a convenient location|便利な場所を選ぶ|suggest a convenient time|都合のよい時間を提案する
+necessary|必要な|ˈnesəseri|a|obtain the necessary permits|必要な許可証を取得する|complete the necessary paperwork|必要な書類手続きを終える
+additional|追加の|əˈdɪʃənəl|a|request additional information|追加情報を求める|hire additional staff|追加の職員を雇う
+annual|年一回の|ˈænjuəl|a|attend the annual meeting|年一回の会議に出席する|prepare the annual report|年次報告書を作成する
+current|現在の|ˈkɜːrənt|a|review the current policy|現在の方針を見直す|check the current balance|現在の残高を確認する
+previous|前の|ˈpriːviəs|a|check the previous order|前の注文を確認する|refer to the previous report|前の報告書を参照する
+responsible|責任のある|rɪˈspɑːnsəbəl|a|identify the responsible department|担当責任のある部署を特定する|appoint someone responsible for training|研修に責任を持つ人を任命する
+eligible|資格がある|ˈelɪdʒəbəl|a|contact eligible applicants|資格がある応募者に連絡する|notify employees eligible for benefits|給付の対象となる従業員に通知する
+qualified|適格な|ˈkwɑːlɪfaɪd|a|hire qualified engineers|適格な技術者を雇う|select a qualified instructor|資格を備えた講師を選ぶ
+experienced|経験豊富な|ɪkˈspɪriənst|a|recruit experienced staff|経験豊富な職員を採用する|consult an experienced adviser|経験豊富な助言者に相談する
+effective|効果的な|ɪˈfektɪv|a|develop an effective strategy|効果的な戦略を立てる|provide effective training|効果的な研修を提供する
+efficient|効率的な|ɪˈfɪʃənt|a|design an efficient system|効率的な仕組みを設計する|introduce more efficient methods|より効率的な方法を導入する
+accurate|正確な|ˈækjərət|a|provide accurate figures|正確な数値を提供する|keep accurate records|正確な記録を保管する
+reliable|信頼できる|rɪˈlaɪəbəl|a|choose a reliable supplier|信頼できる供給業者を選ぶ|provide reliable information|信頼できる情報を提供する
+affordable|手頃な価格の|əˈfɔːrdəbəl|a|offer affordable accommodation|手頃な価格の宿泊施設を提供する|find an affordable alternative|手頃な価格の代替品を見つける
+competitive|競争力のある|kəmˈpetətɪv|a|offer competitive prices|競争力のある価格を提示する|maintain a competitive advantage|競争上の優位を維持する
+suitable|適切な|ˈsuːtəbəl|a|find a suitable venue|適切な会場を見つける|recommend suitable clothing|適切な服装を勧める
+temporary|一時的な|ˈtempəreri|a|hire temporary workers|臨時の労働者を雇う|arrange temporary storage|一時的な保管場所を手配する
+permanent|恒久的な|ˈpɜːrmənənt|a|find a permanent solution|恒久的な解決策を見つける|offer a permanent position|常勤の職を提供する
+@対応・運営
+promptly|速やかに|ˈprɑːmptli|d|reply promptly|速やかに返信する|process orders promptly|注文を速やかに処理する
+recently|最近|ˈriːsəntli|d|inspect the recently renovated office|最近改装された事務所を点検する|review recently published data|最近公開されたデータを検討する
+currently|現在は|ˈkɜːrəntli|d|check the rooms currently available|現在利用できる部屋を確認する|contact the staff currently on duty|現在勤務中の職員に連絡する
+approximately|およそ|əˈprɑːksɪmətli|d|order approximately fifty chairs|およそ50脚の椅子を注文する|spend approximately two hours onsite|現場でおよそ2時間を費やす
+immediately|直ちに|ɪˈmiːdiətli|d|respond immediately|直ちに対応する|report the damage immediately|損傷を直ちに報告する
+regularly|定期的に|ˈreɡjələrli|d|inspect equipment regularly|機器を定期的に点検する|update the website regularly|ウェブサイトを定期的に更新する
+previously|以前に|ˈpriːviəsli|d|review previously approved plans|以前に承認された計画を見直す|check previously submitted documents|以前に提出された書類を確認する
+successfully|首尾よく|səkˈsesfəli|d|complete the project successfully|プロジェクトを首尾よく完了する|launch the service successfully|サービスを首尾よく開始する
+carefully|注意深く|ˈkerfəli|d|read the instructions carefully|説明書を注意深く読む|inspect the goods carefully|商品を注意深く検査する
+conveniently|便利に|kənˈviːniəntli|d|choose a conveniently located hotel|便利な場所にあるホテルを選ぶ|arrange conveniently timed deliveries|都合のよい時間の配送を手配する
+negotiate|交渉する|nɪˈɡoʊʃieɪt|v|negotiate a better price|よりよい価格を交渉する|negotiate with the supplier|供給業者と交渉する
+advertise|宣伝する|ˈædvərtaɪz|v|advertise the new service|新サービスを宣伝する|advertise in local newspapers|地元紙で宣伝する
+promote|販売促進する|prəˈmoʊt|v|promote the new product|新商品の販売促進をする|promote the summer sale|夏のセールを宣伝する
+hire|雇う|haɪər|v|hire a technician|技術者を雇う|hire additional assistants|追加の補助員を雇う
+train|訓練する|treɪn|v|train new staff|新人を訓練する|train employees in safety procedures|従業員に安全手順を訓練する
+transfer|異動させる|trænsˈfɜːr|v|transfer an employee to Osaka|従業員を大阪に異動させる|transfer staff to another branch|職員を別の支店に異動させる
+renew|更新する|rɪˈnuː|v|renew the subscription|定期購読を更新する|renew the lease|賃貸契約を更新する
+cancel|取り消す|ˈkænsəl|v|cancel the order|注文を取り消す|cancel the booking|予約を取り消す
+refund|返金する|ˈriːfʌnd|v|refund the full amount|全額を返金する|refund the delivery charge|配送料を返金する
+resolve|解決する|rɪˈzɑːlv|v|resolve the issue|問題を解決する|resolve the billing dispute|請求に関する紛争を解決する
