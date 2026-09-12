@@ -3,7 +3,7 @@ const sourceUrl=new URL('app.js',base);
 try{
  let source=await fetch(sourceUrl,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('app.js '+r.status);return r.text();});
  for(const file of ['audio.js','tracks.js','core.js','db.js'])source=source.replaceAll(`'./${file}'`,`'${base}${file}'`);
- source=source.replace('TOEIC BEAT v1.4.0','TOEIC BEAT v1.6.1');
+ source=source.replace('TOEIC BEAT v1.4.0','TOEIC BEAT v1.6.2');
  source=source.replace(
   "customTrackReady=false,customTrackName='',customTrackSize=0;",
   "customTrackReady=false,customTrackName='',customTrackSize=0,customInfiniteReady=false;"
@@ -34,7 +34,7 @@ try{
  );
  source=source.replace(
   "$('#pause').onclick=pauseGame;const ok=await audio.start();",
-  "$('#pause').onclick=pauseGame;$('#questionFlag').onclick=toggleQuestionFlag;$('#finishEarly').onclick=()=>{if(confirm('ここまでで終了して結果を見ますか？')){window.__toeicStopTimedSession?.();finishGame(false);}};const ok=await audio.start();"
+  "$('#pause').onclick=pauseGame;$('#questionFlag').onpointerdown=()=>{if(game?.phase==='question')game.flagTapStart=performance.now();};$('#questionFlag').onclick=toggleQuestionFlag;$('#finishEarly').onclick=()=>{if(confirm('ここまでで終了して結果を見ますか？')){window.__toeicStopTimedSession?.();finishGame(false);}};const ok=await audio.start();"
  );
  source=source.replace(
   "function nextQuestion(){if(!game)return;if(game.index>=game.selected.length){finishGame(true);return;}",
@@ -42,7 +42,7 @@ try{
  );
  source=source.replace(
   "$('#choices').querySelectorAll('button').forEach(b=>b.onclick=()=>answer(b.dataset.answer));audio.speak(w.word);}\nfunction rewardEffect",
-  "$('#choices').querySelectorAll('button').forEach(b=>b.onclick=()=>answer(b.dataset.answer));syncQuestionFlag();const spokenIndex=game.index;setTimeout(()=>{if(game&&game.phase==='question'&&game.index===spokenIndex)audio.speak(w.word);},180);}\nfunction reviewIds(){if(!game)return [];return game.session.reviewIds||(game.session.reviewIds=[]);}\nfunction syncQuestionFlag(){const b=$('#questionFlag');if(!b||!game)return;const w=game.selected[game.index],on=!!w&&reviewIds().includes(w.id);b.classList.toggle('active',on);b.setAttribute('aria-pressed',String(on));b.setAttribute('aria-label',on?'この問題を復習から外す':'この問題を復習に追加');}\nfunction toggleQuestionFlag(){if(!game||!['question','feedback'].includes(game.phase))return;const w=game.selected[game.index];if(!w)return;const ids=reviewIds(),i=ids.indexOf(w.id);if(i>=0)ids.splice(i,1);else ids.push(w.id);syncQuestionFlag();if(db)queueSave(()=>saveSession(db,structuredClone(game.session)));}\nfunction rewardEffect"
+  "$('#choices').querySelectorAll('button').forEach(b=>b.onclick=()=>answer(b.dataset.answer));syncQuestionFlag();const spokenIndex=game.index;setTimeout(()=>{if(game&&game.phase==='question'&&game.index===spokenIndex)audio.speak(w.word);},180);}\nfunction reviewIds(){if(!game)return [];return game.session.reviewIds||(game.session.reviewIds=[]);}\nfunction syncQuestionFlag(){const b=$('#questionFlag');if(!b||!game)return;const w=game.selected[game.index],on=!!w&&reviewIds().includes(w.id);b.classList.toggle('active',on);b.setAttribute('aria-pressed',String(on));b.setAttribute('aria-label',on?'この問題を復習から外す':'この問題を復習に追加');}\nfunction toggleQuestionFlag(){if(!game||!['question','feedback'].includes(game.phase))return;if(game.phase==='question'&&game.flagTapStart){game.phaseStart+=Math.max(0,performance.now()-game.flagTapStart);game.flagTapStart=0;}const w=game.selected[game.index];if(!w)return;const ids=reviewIds(),i=ids.indexOf(w.id);if(i>=0)ids.splice(i,1);else ids.push(w.id);syncQuestionFlag();if(db)queueSave(()=>saveSession(db,structuredClone(game.session)));}\nfunction rewardEffect"
  );
  source=source.replace(
   "function frame(now){if(!game||game.paused)return;",
