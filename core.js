@@ -1,7 +1,7 @@
 export const LIMITS={EASY:4000,NORMAL:3000,HARD:2000,EXPERT:1500};
 export const POINTS={PERFECT:100,GREAT:80,GOOD:50,MISS:0};
 export const blankStat=()=>({asked:0,correct:0,incorrect:0,perfect:0,great:0,good:0,totalTime:0,totalRatio:0,averageRatio:0,averageTime:0,lastAnswered:null,streak:0,mastery:0,accuracy:0});
-export function judge(correct,elapsed,limit){return !correct||elapsed>=limit?'MISS':elapsed<=limit*.35?'PERFECT':elapsed<=limit*.7?'GREAT':'GOOD';}
+export function judge(correct,elapsed,limit){return !correct||elapsed>=limit?'MISS':elapsed<=limit*.5?'PERFECT':elapsed<=limit*.75?'GREAT':'GOOD';}
 export function updateStat(old,answer){const s={...blankStat(),...old};s.asked++;s.totalTime+=answer.elapsed;s.totalRatio+=(answer.elapsed/(answer.limit||3000));s.averageRatio=s.totalRatio/s.asked;s.averageTime=s.totalTime/s.asked;s.lastAnswered=answer.at;if(answer.grade==='MISS'){s.incorrect++;s.streak=0;}else{s.correct++;s.streak++;s[answer.grade.toLowerCase()]++;}s.accuracy=s.correct/s.asked;s.mastery=Math.min(100,Math.round(s.accuracy*65+Math.min(s.streak,5)*5+Math.min(s.asked,10)));return s;}
 export function weak(s){return !!s?.asked&&(s.accuracy<.8||s.mastery<65||s.averageRatio>.7);}
 export function weight(s){if(!s?.asked)return 2.5;return Math.max(.3,1+(1-s.accuracy)*4+Math.min(2,s.averageTime/2000)-(s.mastery>90?1:0));}
