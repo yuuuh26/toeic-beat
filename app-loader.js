@@ -3,7 +3,7 @@ const sourceUrl=new URL('app.js',base);
 try{
  let source=await fetch(sourceUrl,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('app.js '+r.status);return r.text();});
  for(const file of ['audio.js','tracks.js','core.js','db.js'])source=source.replaceAll(`'./${file}'`,`'${base}${file}'`);
- source=source.replace('TOEIC BEAT v1.4.0','TOEIC BEAT v1.5.0');
+ source=source.replace('TOEIC BEAT v1.4.0','TOEIC BEAT v1.5.1');
  source=source.replace(
   "customTrackReady=false,customTrackName='',customTrackSize=0;",
   "customTrackReady=false,customTrackName='',customTrackSize=0,customInfiniteReady=false;"
@@ -23,6 +23,10 @@ try{
  source=source.replace(
   "function nextQuestion(){if(!game)return;if(game.index>=game.selected.length){finishGame(true);return;}",
   "function nextQuestion(){if(!game)return;if(game.index>=game.selected.length){if(window.__toeicTimedSession?.active&&!window.__toeicTimedSession.expired){const next=selectWords(words,stats,settings.target,Math.min(500,words.length));if(next.length){game.selected=next;game.index=0;}else{finishGame(true);return;}}else{finishGame(true);return;}}"
+ );
+ source=source.replace(
+  "$('#choices').querySelectorAll('button').forEach(b=>b.onclick=()=>answer(b.dataset.answer));audio.speak(w.word);}\nfunction rewardEffect",
+  "$('#choices').querySelectorAll('button').forEach(b=>b.onclick=()=>answer(b.dataset.answer));const spokenIndex=game.index;setTimeout(()=>{if(game&&game.phase==='question'&&game.index===spokenIndex)audio.speak(w.word);},180);}\nfunction rewardEffect"
  );
  source=source.replace(
   "function frame(now){if(!game||game.paused)return;",
