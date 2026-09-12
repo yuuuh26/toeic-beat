@@ -15,9 +15,10 @@
 .favorite-time{display:inline-flex;align-items:center;border:1px solid #ded5f0;border-radius:999px;background:#f8f5ff;overflow:hidden}
 .favorite-time button{background:none;padding:6px 8px;font-size:10px;color:#665384}
 .favorite-time [data-fav-remove]{padding-left:3px;color:#9d8fab}
-.game-top{grid-template-columns:1fr 1fr auto auto auto auto;gap:8px}
+.game-top{grid-template-columns:1fr 1fr auto auto auto;gap:8px}
 .question-flag{width:34px;height:34px;background:#f3effa;color:#84749d;font-weight:850}
-.question-flag.active{background:#e4dafd;color:#6740ca;box-shadow:0 0 0 2px #ad92ed55}
+.arena-question-flag{position:absolute;right:34px;bottom:82px;z-index:12;box-shadow:0 3px 12px #513b7920}
+.question-flag.active{background:#e4dafd;color:#6740ca;box-shadow:0 0 0 2px #ad92ed55,0 3px 12px #513b7920}
 .quiet-end{min-width:30px;min-height:34px;padding:4px;background:none;color:#9a91a9;font-size:9px;font-weight:650;opacity:.72}
 .quiet-end:active{opacity:1}
-@media(max-width:380px){.game-top{gap:5px}.game-top strong{font-size:20px}.question-flag{width:31px;height:31px}.quiet-end{min-width:27px;font-size:8px}}
+@media(max-width:380px){.game-top{gap:5px}.game-top strong{font-size:20px}.arena-question-flag{right:24px;bottom:76px}.question-flag{width:31px;height:31px}.quiet-end{min-width:27px;font-size:8px}}
