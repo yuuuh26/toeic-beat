@@ -22,3 +22,10 @@
 .quiet-end{min-width:30px;min-height:34px;padding:4px;background:none;color:#9a91a9;font-size:9px;font-weight:650;opacity:.72}
 .quiet-end:active{opacity:1}
 @media(max-width:380px){.game-top{gap:5px}.game-top strong{font-size:20px}.arena-question-flag{right:24px;bottom:76px}.question-flag{width:31px;height:31px}.quiet-end{min-width:27px;font-size:8px}}
+
+.combo-toast.combo-3{animation:comboPop .48s ease-out;color:#7a5cc9;text-shadow:0 0 12px #9c83e855}
+.combo-toast.combo-5{animation:comboPopStrong .58s ease-out;color:#6a45c8;text-shadow:0 0 18px #8f6be488,0 0 30px #b9a4f255}
+.combo-toast.combo-10{animation:comboBurst .72s ease-out;color:#5b33c5;text-shadow:0 0 18px #7f58ddaa,0 0 34px #bca7ff88}
+@keyframes comboPop{0%{transform:scale(.88);opacity:.3}55%{transform:scale(1.08);opacity:1}100%{transform:scale(1);opacity:1}}
+@keyframes comboPopStrong{0%{transform:scale(.82);opacity:.25}45%{transform:scale(1.16);opacity:1}100%{transform:scale(1);opacity:1}}
+@keyframes comboBurst{0%{transform:scale(.72);opacity:.2;filter:brightness(1)}40%{transform:scale(1.24);opacity:1;filter:brightness(1.35)}100%{transform:scale(1);opacity:1;filter:brightness(1)}}
