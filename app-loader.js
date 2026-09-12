@@ -29,6 +29,10 @@ try{
   '<span id="remaining" class="remaining">1 / ${selected.length}</span><button class="icon-button" id="pause" aria-label="一時停止">Ⅱ</button><button class="quiet-end" id="finishEarly" aria-label="途中終了">終了</button>'
  );
  source=source.replace(
+  '<div class="arena"><div class="lane"></div><div class="feedback" id="feedback" aria-live="polite"></div>',
+  '<div class="arena"><div class="lane"></div><button class="icon-button question-flag arena-question-flag" id="questionFlag" aria-label="この問題を復習に追加" aria-pressed="false">?</button><div class="feedback" id="feedback" aria-live="polite"></div>'
+ );
+ source=source.replace(
   "$('#pause').onclick=pauseGame;const ok=await audio.start();",
   "$('#pause').onclick=pauseGame;$('#questionFlag').onclick=toggleQuestionFlag;$('#finishEarly').onclick=()=>{if(confirm('ここまでで終了して結果を見ますか？')){window.__toeicStopTimedSession?.();finishGame(false);}};const ok=await audio.start();"
  );
