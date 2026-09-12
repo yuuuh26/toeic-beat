@@ -1,5 +1,5 @@
 // Change VERSION with every release. Never delete IndexedDB or other apps' caches.
-const VERSION='toeic-beat-v10';
+const VERSION='toeic-beat-v11';
 const ROOT=new URL('./',self.location).href;
 const FILES=['./','index.html','styles.css','custom.css','enhancements.js','app-loader.js','app.js','core.js','db.js','audio.js','tracks.js','words.json','manifest.webmanifest','icons/icon.svg','icons/icon-192.png','icons/icon-512.png','icons/maskable-512.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(VERSION).then(c=>c.addAll(FILES.map(f=>new Request(new URL(f,ROOT).href,{cache:'reload'})))));});
