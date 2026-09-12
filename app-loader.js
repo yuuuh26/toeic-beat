@@ -3,7 +3,7 @@ const sourceUrl=new URL('app.js',base);
 try{
  let source=await fetch(sourceUrl,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('app.js '+r.status);return r.text();});
  for(const file of ['audio.js','tracks.js','core.js','db.js'])source=source.replaceAll(`'./${file}'`,`'${base}${file}'`);
- source=source.replace('TOEIC BEAT v1.4.0','TOEIC BEAT v1.6.0');
+ source=source.replace('TOEIC BEAT v1.4.0','TOEIC BEAT v1.6.1');
  source=source.replace(
   "customTrackReady=false,customTrackName='',customTrackSize=0;",
   "customTrackReady=false,customTrackName='',customTrackSize=0,customInfiniteReady=false;"
@@ -26,7 +26,7 @@ try{
  );
  source=source.replace(
   '<span id="remaining" class="remaining">1 / ${selected.length}</span><button class="icon-button" id="pause" aria-label="一時停止">Ⅱ</button>',
-  '<span id="remaining" class="remaining">1 / ${selected.length}</span><button class="icon-button question-flag" id="questionFlag" aria-label="この問題を復習に追加" aria-pressed="false">?</button><button class="icon-button" id="pause" aria-label="一時停止">Ⅱ</button><button class="quiet-end" id="finishEarly" aria-label="途中終了">終了</button>'
+  '<span id="remaining" class="remaining">1 / ${selected.length}</span><button class="icon-button" id="pause" aria-label="一時停止">Ⅱ</button><button class="quiet-end" id="finishEarly" aria-label="途中終了">終了</button>'
  );
  source=source.replace(
   "$('#pause').onclick=pauseGame;const ok=await audio.start();",
