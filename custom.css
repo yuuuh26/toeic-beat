@@ -29,3 +29,8 @@
 @keyframes comboPop{0%{transform:scale(.88);opacity:.3}55%{transform:scale(1.08);opacity:1}100%{transform:scale(1);opacity:1}}
 @keyframes comboPopStrong{0%{transform:scale(.82);opacity:.25}45%{transform:scale(1.16);opacity:1}100%{transform:scale(1);opacity:1}}
 @keyframes comboBurst{0%{transform:scale(.72);opacity:.2;filter:brightness(1)}40%{transform:scale(1.24);opacity:1;filter:brightness(1.35)}100%{transform:scale(1);opacity:1;filter:brightness(1)}}
+
+.app-url-copy{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;align-items:center}
+.app-url-copy input{width:100%;min-width:0;border:1px solid var(--line);border-radius:12px;padding:12px;background:#faf8ff;color:var(--ink);font-size:12px}
+.app-url-copy button{margin:0;white-space:nowrap;padding:12px 14px}
+@media(max-width:370px){.app-url-copy{grid-template-columns:1fr}.app-url-copy button{width:100%}}
